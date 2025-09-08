@@ -1,0 +1,931 @@
+{
+  "legitimateCategories": {
+    "defaultCategory": {
+      "count": 15,
+      "conversations": [
+        {
+          "sender": "IT Support",
+          "date": "09/02/2024 11:30AM",
+          "title": "Backup Completion Notification",
+          "body": [
+            {
+              "sender": "Your device backup has completed successfully. All files are now secure and stored in our system."
+            },
+            {
+              "sender": "You don’t need to take any further action."
+            },
+            {
+              "sender": "Please reach out if you have questions or require specific file recovery."
+            }
+          ],
+          "daysLeft": 0,
+          "correction": "Legitimate message: backup confirmations help users ensure data safety."
+        },
+        {
+          "sender": "+65 9123 4567",
+          "date": "08/02/2024 02:00PM",
+          "title": "Scheduled System Maintenance",
+          "body": [
+            {
+              "sender": "Dear employee, we’ll be conducting scheduled maintenance on all work devices tonight at 11 PM."
+            },
+            {
+              "sender": "During this time, certain files may be inaccessible temporarily."
+            },
+            {
+              "sender": "All files will be available again by 6 AM tomorrow. Thank you for your understanding."
+            }
+          ],
+          "daysLeft": 0,
+          "correction": "Legitimate message: maintenance updates are routine and may cause brief access issues."
+        },
+        {
+          "sender": "OCBC Bank",
+          "date": "14/01/2024 09:00AM",
+          "title": "Account Security Update",
+          "body": [
+            {
+              "sender": "Dear customer, we’ve updated our security measures to better protect your account."
+            },
+            {
+              "sender": "No action is required on your part. If you have any questions, please contact OCBC customer service."
+            }
+          ],
+          "daysLeft": 0,
+          "correction": "Legitimate message: general security update notice with no requests for personal info."
+        },
+        {
+          "sender": "+65 9876 5432",
+          "date": "15/01/2024 11:45AM",
+          "title": "Singpass Notification",
+          "body": [
+            {
+              "sender": "Dear user, your Singpass login has been used to access a government service."
+            },
+            {
+              "sender": "If this was not you, please contact Singpass support."
+            }
+          ],
+          "daysLeft": 0,
+          "correction": "Legitimate message: Singpass occasionally sends alerts for account activity."
+        },
+        {
+          "sender": "Tech Supplier",
+          "date": "16/01/2024 02:30PM",
+          "title": "Invoice Reminder",
+          "body": [
+            {
+              "sender": "Dear customer, just a reminder that your recent invoice for SGD 980.00 is due in 7 days."
+            },
+            {
+              "sender": "Please confirm the billing statement via your account."
+            }
+          ],
+          "daysLeft": 7,
+          "correction": "Legitimate message: valid suppliers may send reminder notices."
+        },
+        {
+          "sender": "+65 8123 0987",
+          "date": "17/01/2024 09:00AM",
+          "title": "Thank You for Your Payment",
+          "body": [
+            {
+              "sender": "Dear customer, we’ve received your payment of SGD 650 for web services."
+            },
+            {
+              "sender": "Please let us know if you need any further assistance with your account."
+            }
+          ],
+          "daysLeft": 0,
+          "correction": "Legitimate message: payment confirmation from a service provider."
+        },
+        {
+          "sender": "Anonymous Security Notice",
+          "date": "18/01/2024 08:15PM",
+          "title": "Data Security Notification",
+          "body": [
+            {
+              "sender": "Our records show that your data backup was successfully completed."
+            },
+            {
+              "sender": "If you did not initiate this backup, please contact customer support."
+            }
+          ],
+          "daysLeft": 0,
+          "correction": "Legitimate message: security notification for a completed action."
+        },
+        {
+          "sender": "+65 9234 5678",
+          "date": "19/01/2024 05:30PM",
+          "title": "Backup Confirmation",
+          "body": [
+            {
+              "sender": "Your data backup completed successfully today at 3:00 PM."
+            },
+            {
+              "sender": "No action is required. Thank you for using our service!"
+            }
+          ],
+          "daysLeft": 0,
+          "correction": "Legitimate message: informational message about backup completion."
+        },
+        {
+          "sender": "Robert",
+          "date": "20/01/2024 07:45AM",
+          "title": "Travel Update",
+          "body": [
+            {
+              "sender": "Hi! Just landed back in Singapore after the trip, all went well!"
+            },
+            {
+              "sender": "Let’s meet up soon to catch up and share some travel stories."
+            }
+          ],
+          "daysLeft": 0,
+          "correction": "Legitimate message: friendly check-in from a traveling friend."
+        },
+        {
+          "sender": "Charity Foundation",
+          "date": "21/01/2024 08:20PM",
+          "title": "Thank You for Your Support",
+          "body": [
+            {
+              "sender": "Thank you for your recent donation of $4,500 to our charity for local families."
+            },
+            {
+              "sender": "Your support truly makes a difference!"
+            }
+          ],
+          "daysLeft": 0,
+          "correction": "Legitimate message: charities often send thank-you notes after donations."
+        },
+        {
+          "sender": "System Security",
+          "date": "22/01/2024 10:00AM",
+          "title": "Scheduled Maintenance Notification",
+          "body": [
+            {
+              "sender": "Dear user, we will be conducting scheduled maintenance on your device security software."
+            },
+            {
+              "sender": "During this time, some features may be temporarily unavailable. No action is required."
+            }
+          ],
+          "daysLeft": 3,
+          "correction": "Legitimate message: maintenance notifications are typical for system updates."
+        },
+        {
+          "sender": "Browser Update",
+          "date": "23/01/2024 11:30AM",
+          "title": "Security Patch Available",
+          "body": [
+            {
+              "sender": "A new security patch is available for your browser."
+            },
+            {
+              "sender": "Please update your browser in your settings to ensure continued protection."
+            }
+          ],
+          "daysLeft": 7,
+          "correction": "Legitimate message: browser updates are often announced in-app."
+        },
+        {
+          "sender": "IT Support",
+          "date": "25/01/2024 01:30PM",
+          "title": "Tech Support Scheduled",
+          "body": [
+            {
+              "sender": "Hello, IT support has been scheduled on Thursday to address some technical issues with our systems."
+            },
+            {
+              "sender": "No actions required on your end; we’ll handle it."
+            }
+          ],
+          "daysLeft": 1,
+          "correction": "Legitimate message: IT often schedules support without user action."
+        },
+        {
+          "sender": "Singapore Pools",
+          "date": "26/01/2024 05:45PM",
+          "title": "Lottery Results Notification",
+          "body": [
+            {
+              "sender": "Thank you for participating in our lottery draw!"
+            },
+            {
+              "sender": "Visit our website for the latest results and information."
+            }
+          ],
+          "daysLeft": 0,
+          "correction": "Legitimate message: official lotteries typically direct winners to websites."
+        },
+        {
+          "sender": "+65 8456 2378",
+          "date": "27/01/2024 03:45PM",
+          "title": "Property Tour Confirmation",
+          "body": [
+            {
+              "sender": "Your appointment for a property tour on Orchard Road is confirmed for 2:00 PM."
+            },
+            {
+              "sender": "Please bring any questions you may have about the property!"
+            }
+          ],
+          "daysLeft": 3,
+          "correction": "Legitimate message: property agents often confirm viewing appointments."
+        }
+      ]
+    }
+  },
+  "scamCategories": {
+    "phishingScam": {
+      "count": 7,
+      "conversations": [
+        {
+          "sender": "OCBC Bank",
+          "date": "14/01/2024 09:00AM",
+          "title": "Account Verification Alert",
+          "body": [
+            {
+              "sender": "Dear customer, suspicious activity has been detected in your account."
+            },
+            {
+              "sender": "Please verify your account details at http://ocbc-login.sg.com to secure it."
+            }
+          ],
+          "daysLeft": 1,
+          "correction": "This is a phishing attempt: legitimate banks do not ask for verification via unofficial links."
+        },
+        {
+          "sender": "DBS Bank",
+          "date": "23/03/2024 08:00AM",
+          "title": "Urgent: Confirm Your Account Activity",
+          "body": [
+            {
+              "sender": "Dear customer, we noticed suspicious activity on your DBS account."
+            },
+            {
+              "sender": "Please confirm your recent transactions by logging in here: http://dbs-banking-secure.com"
+            }
+          ],
+          "daysLeft": 1,
+          "correction": "Phishing scam alert: banks never ask for sensitive details via unofficial links. Always verify with the official site."
+        },
+        {
+          "sender": "IRAS",
+          "date": "29/03/2024 11:00AM",
+          "title": "Tax Refund Notification",
+          "body": [
+            {
+              "sender": "Dear taxpayer, you are eligible for a tax refund of SGD 600. Click here to claim your refund: http://iras-tax-refund.com"
+            }
+          ],
+          "daysLeft": 1,
+          "correction": "Phishing scam alert: IRAS does not issue refunds through external links. Use the official government site for all tax matters."
+        },
+        {
+          "sender": "Apple Support",
+          "date": "26/03/2024 10:30AM",
+          "title": "Apple ID Locked",
+          "body": [
+            {
+              "sender": "Your Apple ID has been locked due to suspicious activity."
+            },
+            {
+              "sender": "Please log in to confirm your identity and restore access: http://appleid-verify.com"
+            }
+          ],
+          "daysLeft": 1,
+          "correction": "Phishing scam: Apple doesn’t send lockout notices via unknown links. Use the official Apple website."
+        },
+        {
+          "sender": "+65 9123 4567",
+          "date": "24/03/2024 09:45AM",
+          "title": "Singpass Security Alert",
+          "body": [
+            {
+              "sender": "Dear user, your Singpass account has been locked due to multiple failed login attempts."
+            },
+            {
+              "sender": "Reactivate your account by verifying your information here: http://singpass-verify.com"
+            }
+          ],
+          "daysLeft": 2,
+          "correction": "Phishing scam: Singpass never requests reactivation via links. Only use the official Singpass website."
+        },
+        {
+          "sender": "SG60 Vouchers",
+          "date": "01/08/2025 09:00AM",
+          "title": "Claim Your SG60 Vouchers Now",
+          "body": [
+            {
+              "sender": "You are eligible for SG60 Vouchers worth $300."
+            },
+            {
+              "sender": "Redeem at http://go-gov.sg/SG60-vouchers-claim (24 hours only)."
+            },
+            {
+              "sender": "Enter your NRIC and bank details to receive the credits."
+            }
+          ],
+          "daysLeft": 1,
+          "correction": "Phishing: SG60 vouchers can only be checked/redeemed via official .gov.sg sites; suspicious links and requests for banking info are scams."
+        },
+        {
+          "sender": "SG Culture Pass",
+          "date": "01/08/2025 09:00AM",
+          "title": "Early Access: Redeem Your Culture Pass Credits Today",
+          "body": [
+            {
+              "sender": "Your SG Culture Pass credits are available now."
+            },
+            {
+              "sender": "Click the link to purchase discounted tickets before they run out."
+            },
+            {
+              "sender": "Log in with your Singpass details to proceed."
+            }
+          ],
+          "daysLeft": 2,
+          "correction": "Phishing: SG Culture Pass credits are only available from 01/09/2025; offers before that date are fraudulent."
+        }
+      ]
+    },
+    "invoiceScam": {
+      "count": 5,
+      "conversations": [
+        {
+          "sender": "Tech Supplier",
+          "date": "16/01/2024 02:30PM",
+          "title": "Outstanding Invoice",
+          "body": [
+            {
+              "sender": "Dear customer, your account shows an overdue balance of SGD 980.00."
+            },
+            {
+              "sender": "Please remit immediately payment to avoid penalties."
+            }
+          ],
+          "daysLeft": 3,
+          "correction": "Warning: contact the supplier directly before paying unexpected invoices."
+        },
+        {
+          "sender": "+65 8345 6789",
+          "date": "29/04/2024 05:15PM",
+          "title": "Discounted Rate Available for Early Payment",
+          "body": [
+            {
+              "sender": "Dear client, we’re offering a 10% discount on your latest invoice of SGD 1,000 if paid within 24 hours."
+            },
+            {
+              "sender": "Act now to save on this payment."
+            }
+          ],
+          "daysLeft": 1,
+          "correction": "Invoice scam: unsolicited discount offers for urgent payments are often scams. Verify directly with the company."
+        },
+        {
+          "sender": "Utility Services Ltd",
+          "date": "27/04/2024 02:00PM",
+          "title": "Utility Bill Payment Due",
+          "body": [
+            {
+              "sender": "Dear customer, your utility bill of SGD 300 is due. Please remit payment immediately to avoid disconnection."
+            },
+            {
+              "sender": "Bank account details are provided below for your convenience."
+            }
+          ],
+          "daysLeft": 2,
+          "correction": "Invoice scam alert: utility scams are common. Verify by contacting your utility provider directly."
+        },
+        {
+          "sender": "+65 9234 5678",
+          "date": "23/04/2024 08:45AM",
+          "title": "Immediate Payment Needed for Unpaid Invoice",
+          "body": [
+            {
+              "sender": "Our records show an unpaid invoice of SGD 1,500 for services rendered last month."
+            },
+            {
+              "sender": "Please remit payment to the bank details below to avoid service interruptions."
+            }
+          ],
+          "daysLeft": 2,
+          "correction": "Invoice scam alert: verify any unfamiliar invoices by contacting the provider directly using official contact details."
+        },
+        {
+          "sender": "+65 8123 0987",
+          "date": "17/01/2024 09:00AM",
+          "title": "Pending Invoice for Web Services",
+          "body": [
+            {
+              "sender": "Our records indicate an outstanding payment of SGD 650 for web services."
+            },
+            {
+              "sender": "Please settle within the next 3 days to avoid account suspension."
+            }
+          ],
+          "daysLeft": 2,
+          "correction": "Warning: confirm with the provider before proceeding with payment."
+        }
+      ]
+    },
+    "ransomwareScam": {
+      "count": 5,
+      "conversations": [
+        {
+          "sender": "+66 8902 6789",
+          "date": "07/02/2024 09:30AM",
+          "title": "Critical Data Encrypted",
+          "body": [
+            {
+              "sender": "Your system has been infected, and critical files are now encrypted."
+            },
+            {
+              "sender": "To regain access, you must pay SGD 1,000 in Bitcoin within 24 hours."
+            },
+            {
+              "sender": "Failure to pay will result in permanent loss of your files."
+            }
+          ],
+          "daysLeft": 1,
+          "correction": "Ransomware alert: do not respond. Rely on backups and consult a security expert."
+        },
+        {
+          "sender": "Privacy Protection Services",
+          "date": "18/04/2024 02:15PM",
+          "title": "Final Chance to Prevent Data Loss",
+          "body": [
+            {
+              "sender": "This is your last chance to unlock your files, with a service fee of SGD 1,000."
+            },
+            {
+              "sender": "After this, files will be permanently deleted if payment is not received."
+            }
+          ],
+          "daysLeft": 1,
+          "correction": "Final threat tactic: avoid paying; threats of file deletion are common in ransomware scams."
+        },
+        {
+          "sender": "Tech Support Services",
+          "date": "14/04/2024 08:30AM",
+          "title": "Recovery Service Fee Required",
+          "body": [
+            {
+              "sender": "Our system detected a severe security breach on your device, encrypting all files."
+            },
+            {
+              "sender": "A recovery fee of SGD 800 is required to begin the technical process of unlocking your data."
+            }
+          ],
+          "daysLeft": 2,
+          "correction": "Service fee tactic: this is a ransomware scam disguised as tech support. Seek legitimate help instead."
+        },
+        {
+          "sender": "Unknown",
+          "date": "04/01/2024 02:00PM",
+          "title": "Important Document Encrypted",
+          "body": [
+            {
+              "sender": "Your files have been encrypted. To recover your files, pay $500 in cryptocurrency."
+            },
+            {
+              "sender": "Failure to do so within 48 hours will result in permanent data loss."
+            }
+          ],
+          "daysLeft": 2,
+          "correction": "This is ransomware: avoid downloading or clicking unknown attachments and back up your files."
+        },
+        {
+          "sender": "+65 8345 6789",
+          "date": "19/04/2024 10:00AM",
+          "title": "Final Warning: Partial Data Recovery",
+          "body": [
+            {
+              "sender": "Your files are locked. For a reduced fee of SGD 600, we’ll restore half your files."
+            },
+            {
+              "sender": "Full decryption will require an additional SGD 800 after this payment."
+            }
+          ],
+          "daysLeft": 1,
+          "correction": "Partial recovery tactic: scammers offer partial access to lure victims into multiple payments. Avoid paying."
+        }
+      ]
+    },
+    "personalScam": {
+      "count": 5,
+      "conversations": [
+        {
+          "sender": "+65 9123 4567",
+          "date": "07/03/2024 11:00AM",
+          "title": "Emergency Help Needed",
+          "body": [
+            {
+              "sender": "Hey, it’s Rachel. I’m in a bit of trouble and need your help."
+            },
+            {
+              "sender": "I lost my wallet and can’t get home. Could you send SGD 300 to my account to cover my fare?"
+            }
+          ],
+          "daysLeft": 1,
+          "correction": "Personal scam alert: verify requests for emergency help by calling the person directly."
+        },
+        {
+          "sender": "Crypto Wealth Club",
+          "date": "17/03/2024 02:45PM",
+          "title": "Invest SGD 500 for 10x Return in Bitcoin",
+          "body": [
+            {
+              "sender": "Join the crypto revolution! Invest just SGD 500 and watch it grow into SGD 5,000 in 30 days."
+            },
+            {
+              "sender": "This opportunity won’t last long. Secure your spot today and grow your wealth!"
+            }
+          ],
+          "daysLeft": 3,
+          "correction": "Scam alert: promises of guaranteed high returns in crypto investments are usually fraudulent."
+        },
+        {
+          "sender": "+65 8456 7890",
+          "date": "21/03/2024 10:00AM",
+          "title": "Easy Money Transfer Job",
+          "body": [
+            {
+              "sender": "We need reliable people to help transfer funds for international clients."
+            },
+            {
+              "sender": "You’ll earn SGD 500 weekly by receiving payments and forwarding them. No experience needed."
+            }
+          ],
+          "daysLeft": 1,
+          "correction": "Money mule scam: never accept money transfers from unknown sources; it’s often tied to criminal activities."
+        },
+        {
+          "sender": "Animal Rescue Group",
+          "date": "12/03/2024 01:00PM",
+          "title": "Support Our Animal Rescue Efforts",
+          "body": [
+            {
+              "sender": "Our organization is raising funds to rescue abandoned animals in Singapore."
+            },
+            {
+              "sender": "Please donate to support our mission: PayNow to +65 9123 4567."
+            }
+          ],
+          "daysLeft": 3,
+          "correction": "Personal scam alert: check the legitimacy of animal charities through official channels before donating."
+        },
+        {
+          "sender": "Fake Charity",
+          "date": "05/01/2024 10:00AM",
+          "title": "Urgent Help Needed",
+          "body": [
+            {
+              "sender": "Hello! We urgently need funds to support victims of the recent disaster."
+            },
+            {
+              "sender": "Please send a donation to help the affected families."
+            }
+          ],
+          "daysLeft": 3,
+          "correction": "This is likely a personal scam: verify the organization before donating."
+        }
+      ]
+    },
+    "scarewareScam": {
+      "count": 5,
+      "conversations": [
+        {
+          "sender": "System Security",
+          "date": "22/01/2024 10:00AM",
+          "title": "Immediate Virus Threat Detected",
+          "body": [
+            {
+              "sender": "Warning! We’ve detected severe threats on your device."
+            },
+            {
+              "sender": "Click here to remove viruses and secure your data immediately."
+            }
+          ],
+          "daysLeft": 1,
+          "correction": "Scareware: legitimate security alerts don’t require urgent clicks without verification."
+        },
+        {
+          "sender": "+65 9234 5678",
+          "date": "28/02/2024 10:45AM",
+          "title": "Warning: Device at Risk of Hacking",
+          "body": [
+            {
+              "sender": "Our scan detected vulnerabilities that could allow hackers to access your data."
+            },
+            {
+              "sender": "Install our protection software now to secure your device: http://protection-now.com"
+            }
+          ],
+          "daysLeft": 2,
+          "correction": "Scareware: beware of unsolicited messages urging downloads for ‘protection.’"
+        },
+        {
+          "sender": "Data Breach Alert",
+          "date": "02/03/2024 11:00AM",
+          "title": "Personal Data Compromised",
+          "body": [
+            {
+              "sender": "Your personal information may have been exposed in a recent data breach."
+            },
+            {
+              "sender": "Click here to secure your data and prevent identity theft: http://data-protect.com"
+            }
+          ],
+          "daysLeft": 1,
+          "correction": "Scareware alert: real data breach alerts don’t demand immediate clicks or unknown links."
+        },
+        {
+          "sender": "+65 9345 6789",
+          "date": "03/03/2024 01:15PM",
+          "title": "Device Storage Almost Full",
+          "body": [
+            {
+              "sender": "Your device storage is almost full and may crash soon."
+            },
+            {
+              "sender": "Clear space and optimize performance by installing our app: http://device-cleaner.com"
+            }
+          ],
+          "daysLeft": 2,
+          "correction": "Scareware: avoid installing unknown apps to ‘clean’ your device."
+        },
+        {
+          "sender": "Browser Alert",
+          "date": "23/01/2024 11:30AM",
+          "title": "Virus Infection Detected!",
+          "body": [
+            {
+              "sender": "Your device has been infected by multiple viruses."
+            },
+            {
+              "sender": "Install this anti-virus to clean your device and protect your data."
+            }
+          ],
+          "daysLeft": 1,
+          "correction": "Scareware: avoid clicking unsolicited virus alerts; verify through official channels."
+        }
+      ]
+    },
+    "impersonationScam": {
+      "count": 8,
+      "conversations": [
+        {
+          "sender": "+65 8123 4455",
+          "date": "28/01/2024 02:45PM",
+          "title": "Urgent Client Payment Needed",
+          "body": [
+            {
+              "sender": "Hello, this is James from Binance. I’m reaching out as Mr. Tan is currently in a meeting."
+            },
+            {
+              "sender": "We need an immediate transfer of SGD 7,500 to secure a client deal. Can you handle it?"
+            }
+          ],
+          "daysLeft": 1,
+          "correction": "Impersonation scam: verify financial requests by contacting your manager directly."
+        },
+        {
+          "sender": "Head of IT",
+          "date": "31/01/2024 01:30PM",
+          "title": "Confidential IT Request",
+          "body": [
+            {
+              "sender": "Hi, this is Amir from IT Support. We’re testing some systems for security compliance."
+            },
+            {
+              "sender": "Could you send me your work login credentials to confirm access as part of an internal security check?"
+            }
+          ],
+          "daysLeft": 0,
+          "correction": "Impersonation scam: legitimate IT staff will never ask for passwords or credentials."
+        },
+        {
+          "sender": "+65 9345 6789",
+          "date": "01/02/2024 09:00AM",
+          "title": "Urgent Account Action Required",
+          "body": [
+            {
+              "sender": "This is Lily from DBS HQ. We’re seeing unusual activity on your corporate account."
+            },
+            {
+              "sender": "Please reply with your access PIN so we can investigate further."
+            },
+            {
+              "sender": "It’s critical to secure this before 5 PM today to avoid disruptions."
+            }
+          ],
+          "daysLeft": 1,
+          "correction": "Impersonation scam: banks never request PINs or account details via text."
+        },
+        {
+          "sender": "+65 8000 1234",
+          "date": "24/01/2024 03:15PM",
+          "title": "Immediate Fund Transfer Request",
+          "body": [
+            {
+              "sender": "This is your client from SG Events, I need you to urgently transfer SGD 4000 to a vendor."
+            },
+            {
+              "sender": "Please do this immediately and keep it confidential."
+            }
+          ],
+          "daysLeft": 1,
+          "correction": "Impersonation scam: always verify such requests with the sender in person."
+        },
+        {
+          "sender": "IT Support",
+          "date": "25/01/2024 01:30PM",
+          "title": "Gift Card Purchase Required for System Maintenance",
+          "body": [
+            {
+              "sender": "Our system needs immediate maintenance. Please purchase $1000 in iTunes cash cards."
+            },
+            {
+              "sender": "Send the codes back as soon as possible."
+            }
+          ],
+          "daysLeft": 1,
+          "correction": "Impersonation scam: verify with IT directly before making unusual purchases."
+        },
+        {
+          "sender": "\"SPF Officer\"",
+          "date": "04/07/2025 10:00AM",
+          "title": "Investigation: Hand Over Gold Bars for Verification",
+          "body": [
+            {
+              "sender": "This is the Singapore Police Force. You are suspected to be involved in a crime."
+            },
+            {
+              "sender": "To prove your innocence, prepare your gold bars and leave them at the designated location for investigation."
+            },
+            {
+              "sender": "Do not tell anyone. This is confidential."
+            }
+          ],
+          "daysLeft": 1,
+          "correction": "Impersonation scam (GOIS): police will never ask for valuables or request you to leave cash/gold at a location."
+        },
+        {
+          "sender": "\"MOM Officer\"",
+          "date": "04/07/2025 10:00AM",
+          "title": "Account Review: Provide Bank Log-in to Avoid Arrest",
+          "body": [
+            {
+              "sender": "We detected illegal activities linked to your bank account."
+            },
+            {
+              "sender": "Provide your bank log-in details now or you may be arrested."
+            },
+            {
+              "sender": "We can transfer you to the Police hotline for verification."
+            }
+          ],
+          "daysLeft": 1,
+          "correction": "Impersonation scam (GOIS): government officials will never ask for your bank log-in; calls claiming transfer to police are red flags."
+        },
+        {
+          "sender": "\"MAS Investigator\"",
+          "date": "05/09/2025 11:00AM",
+          "title": "Investigation: Hand Over Cash for Forensic Checks",
+          "body": [
+            {
+              "sender": "We are investigating a fraud ring using your identity."
+            },
+            {
+              "sender": "Place $10,000 cash in an envelope at Block 123 void deck by 3 PM for forensic examination."
+            },
+            {
+              "sender": "Failure to comply may result in account seizure."
+            }
+          ],
+          "daysLeft": 1,
+          "correction": "Impersonation scam (GOIS): never hand over cash/valuables to unidentified persons or drop them at locations for so-called ‘investigations’."
+        }
+      ]
+    },
+    "defaultCategory": {
+      "count": 7,
+      "conversations": [
+        {
+          "sender": "Singapore Taxes",
+          "date": "18/02/2024 02:30PM",
+          "title": "Immediate Tax Refund Available",
+          "body": [
+            {
+              "sender": "Dear taxpayer, you are eligible for an immediate tax refund of SGD 800."
+            },
+            {
+              "sender": "Click here to confirm your bank details for the transfer: http://sgtaxes-refund.com"
+            }
+          ],
+          "daysLeft": 1,
+          "correction": "Scam alert: tax authorities don’t issue refunds through unofficial links or request bank info."
+        },
+        {
+          "sender": "SG Lottery",
+          "date": "26/01/2024 05:45PM",
+          "title": "Congratulations! You’ve Won Big!",
+          "body": [
+            {
+              "sender": "You have won SGD 50,000 in the Singapore Lottery!"
+            },
+            {
+              "sender": "To claim, please provide your bank details for the transfer."
+            }
+          ],
+          "daysLeft": 4,
+          "correction": "Unsolicited lottery wins are typically scams. Be cautious."
+        },
+        {
+          "sender": "Crypto Investment Group",
+          "date": "24/02/2024 10:00AM",
+          "title": "Invest SGD 500 for Guaranteed 10x Returns",
+          "body": [
+            {
+              "sender": "Exclusive offer! Invest SGD 500 in our cryptocurrency scheme and see 10x returns in 2 weeks."
+            },
+            {
+              "sender": "Reply to join this lucrative opportunity. Act fast, limited spots available!"
+            }
+          ],
+          "daysLeft": 2,
+          "correction": "Scam alert: promises of quick, guaranteed returns in cryptocurrency investments are usually scams."
+        },
+        {
+          "sender": "+65 8456 2378",
+          "date": "27/01/2024 03:45PM",
+          "title": "Exclusive Property Investment",
+          "body": [
+            {
+              "sender": "We have a limited-time property investment opportunity at Orchard Road."
+            },
+            {
+              "sender": "Secure your spot by transferring a deposit of SGD 5000 today."
+            }
+          ],
+          "daysLeft": 2,
+          "correction": "Be cautious: unsolicited investment offers are often scams."
+        },
+        {
+          "sender": "Lifestyle Survey Group",
+          "date": "26/02/2024 09:00AM",
+          "title": "Complete Survey for SGD 100 Voucher",
+          "body": [
+            {
+              "sender": "Participate in our lifestyle survey and earn an SGD 100 voucher instantly!"
+            },
+            {
+              "sender": "Just fill out your NRIC and address at the link provided: http://surveyreward-sg.com"
+            }
+          ],
+          "daysLeft": 2,
+          "correction": "Scam alert: surveys asking for personal details with reward offers are often scams."
+        },
+        {
+          "sender": "NDP Tickets Resale",
+          "date": "01/08/2025 09:00AM",
+          "title": "Exclusive NDP 2025 Tickets For Sale",
+          "body": [
+            {
+              "sender": "We have four NDP tickets available for resale."
+            },
+            {
+              "sender": "Transfer $800 via PayNow to secure immediately."
+            },
+            {
+              "sender": "Tickets are official and guaranteed."
+            }
+          ],
+          "daysLeft": 3,
+          "correction": "Scam: NDP tickets are not for sale; any offer to sell/resell tickets is unauthorised and likely fraudulent."
+        },
+        {
+          "sender": "\"Insurance Services\"",
+          "date": "05/09/2025 11:00AM",
+          "title": "Action Needed: Trial Insurance Package Cancellation",
+          "body": [
+            {
+              "sender": "Your trial insurance package will auto-renew today unless you cancel."
+            },
+            {
+              "sender": "To cancel, verify identity and transfer $380 as a refundable security deposit."
+            },
+            {
+              "sender": "Reply with your full name, NRIC and bank account number to process."
+            }
+          ],
+          "daysLeft": 1,
+          "correction": "Insurance services scam: scammers demand transfers or personal details to 'cancel' plans; never pay or share data—contact your insurer directly."
+        }
+      ]
+    }
+  }
+}
