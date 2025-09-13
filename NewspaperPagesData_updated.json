@@ -1,0 +1,46 @@
+{
+  "PagesData": [
+    {
+      "Key": "phishingScam",
+      "Headline": "PHISHING VIA ‘GOVT INITIATIVES’: SG60, NDP TICKETS, SG CULTURE PASS",
+      "Definition": "Scammers exploit national initiatives (e.g., SG60 Vouchers, NDP 2025 tickets, SG Culture Pass) by sending emails/SMS with links to fake websites to ‘redeem’ or ‘claim’ benefits, harvesting personal and banking details. NDP tickets are not for sale. SG Culture Pass credits are only available from 1 Sep 2025.",
+      "Manifestations": "- Emails/SMS impersonating government agencies with links to ‘voucher redemption’/‘ticket purchases’\n- Fake websites that request your personal/banking details\n- Claims to redeem SG60 Vouchers outside the official site",
+      "HowToAvoid": "- Check for “.gov.sg” in URLs and verify against the official trusted sites list (gov.sg/trusted-sites).\n- Claim SG60 vouchers ONLY at go.gov.sg/SG60vouchers.\n- Treat any SG Culture Pass redemption offers before 1 Sep 2025 as fraudulent; verify via enquiries@sgculturepass.gov.sg.\n- Use ScamShield to check suspicious messages, numbers, and links; confirm with the relevant agency when in doubt."
+    },
+    {
+      "Key": "invoiceScam",
+      "Headline": "‘INVOICE’/SUBSCRIPTION CANCELLATION TRICK: INSURANCE SERVICES SCAM",
+      "Definition": "Scammers pose as insurance companies and claim you must pay for packages or expiring trials unless you cancel. To ‘facilitate cancellation’, they ask for your personal details and demand bank transfers to ‘verify identity’.",
+      "Manifestations": "- Emails/calls about ‘expiring insurance trials’ or ‘packages due’\n- Requests to share personal particulars\n- Instructions to transfer money to prove your identity or process cancellation",
+      "HowToAvoid": "- Do NOT transfer money for verification or cancellation; contact your insurer via official channels.\n- Add security features and the ScamShield app; Check suspicious messages; Tell authorities and loved ones (A‑C‑T).\n- Be alert to pressure tactics and unsolicited payment requests."
+    },
+    {
+      "Key": "ransomwareScam",
+      "Headline": "Free Movie? Think twice!",
+      "Definition": "Ransomware scams are malicious software in your laptop or mobile phone that allow a scammer to take control of your device, blocking access to your files or the internet. Scammers often will demand a ransom for you to regain control of your device and/or files.",
+      "Manifestations": "Ransomware is often hidden within:\n - Email attachments pretending to be bills, documents, free music or software\n - Downloadable files or folders claiming to content free music, movies, notes etc. posted online or on peer-to-peer sharing networks. ",
+      "HowToAvoid": "- If possible, avoid downloading or even opening attachments in emails from unknown senders\n - Don't download music, software or documents from non-official sites online\n - Always check the sender of an email, or website domain before opening unknown files!"
+    },
+    {
+      "Key": "personalScam",
+      "Headline": "TRUE LOVE? NO!",
+      "Definition": "Love/romance scams are where a scammer creates a fake identity and pretends to be romantically interested in you to gain your attention and trust over time, eventually asking you for personal details, money, money-equivalents (gift cards) for personal 'crisis' or investments.",
+      "Manifestations": "Scammers create a fake identity, often using fake names, emails and stolen photographs, before contacting you via:\n - Email\n - Messaging applications\n - Social media sites and DMs\n - Dating applications",
+      "HowToAvoid": "- Do not believe someone who shows 'romantic interest' in you with no prior in-person interactions!\n - Someone who genuinely likes you will not ask you for money, gift cards, or investments online!\n - Search the sender's name, photo, and contact details on Google to verify the sender!"
+    },
+    {
+      "Key": "scarewareScam",
+      "Headline": "Scareware? No fear!",
+      "Definition": "Scareware are scams designed to scare or threaten you to make payment or ransom to a scammer using a false threat delivered in the form of an email, message or notification.",
+      "Manifestations": "- Messages and emails and that claim you committed an offence, haven't paid your taxes or bills and threatening prosecution or disclosing your personal information\n - Malicious software that shows fake notifications of device errors, offences, unpaid bills which lead to payment sites.",
+      "HowToAvoid": "- Do not ever believe threats sent to you - verify them in-person with local authorities.\n - Do not make bank transfers or credit card payments to unknown parties.\n - Don't download unknown files or software which give scammers access to your PC."
+    },
+    {
+      "Key": "impersonationScam",
+      "Headline": "GOVT OFFICIALS IMPERSONATION (GOIS): DON’T PAY!",
+      "Definition": "Scammers impersonate government officials (e.g., SPF, MAS, MOM), accuse victims of crimes, and pressure them to transfer money to ‘safety’ accounts, surrender jewellery, or exchange cash for gold bars ‘for investigation’. They may cite your personal information (e.g., name/NRIC) to sound legitimate. Real officials will NEVER ask you to transfer money or disclose bank log‑in details over a call.",
+      "Manifestations": "- Phone calls claiming to be from a government agency and pressing you to:\n  • transfer money ‘for investigation’\n  • provide your bank log‑in details\n  • download an app from a third‑party website\n  • be ‘transferred to the Police’\n- Caller may quote your personal particulars to gain trust.",
+      "HowToAvoid": "- Hang up. Verify through official hotlines/websites; do not use numbers given by the caller.\n- Government SMSes use the gov.sg Sender ID; check suspicious numbers/links with the ScamShield app.\n- NEVER transfer money or share bank log‑ins over a phone call.\n- When unsure, call the 24/7 ScamShield Helpline at 1799."
+    }
+  ]
+}
