@@ -1,0 +1,1448 @@
+{
+  "legitimateCategories": {
+    "defaultCategory": {
+      "count": 19,
+      "emails": [
+        {
+          "sender": "newsletter@nytimes.com",
+          "date": "01/01/2024 08:00AM",
+          "title": "Your Daily Briefing: News that Matters",
+          "body": "Good morning,\n\nHere's your daily briefing to keep you updated with the latest news. Stay informed about current events, market updates, and more.\n\nBest,\nThe New York Times Team",
+          "daysLeft": 7,
+          "correction": "Valid e-mail: that e-mail identified itself and did not appear to be a scam."
+        },
+        {
+          "sender": "support@spotify.com",
+          "date": "01/01/2024 10:00AM",
+          "title": "Your Premium Subscription Has Been Renewed",
+          "body": "Hello Macs,\n\nYour Spotify Premium subscription has been successfully renewed for another month. Enjoy uninterrupted music streaming!\n\nBest Regards,\nSpotify Support",
+          "daysLeft": 30,
+          "correction": "Valid e-mail: your free trial of music subscription has ended!"
+        },
+        {
+          "sender": "jane.smith@investmentsolutions.com",
+          "date": "07/02/24 10:15 AM",
+          "title": "Potential Collaboration Opportunity",
+          "body": "Hi Macs,\n\nI hope this message finds you well! I’ve been following your investment strategies and am impressed with your recent successes.\n\nI believe we could explore some collaborative opportunities that could benefit both our funds. Would you be open to a discussion?\n\nLooking forward to your thoughts!\nBest,\nJane",
+          "daysLeft": 1,
+          "correction": "Jane's email comes from a reputable investment firm and references specific professional interest, making it trustworthy.",
+          "attachment": null,
+          "extraReward": 5000
+        },
+        {
+          "sender": "mike.johnson@venturecapitalgroup.com",
+          "date": "09/02/24 03:45 PM",
+          "title": "Investment Partnership Proposal",
+          "body": "Dear Macs,\n\nI hope you’re having a great week! I represent Venture Capital Group, and we are seeking strategic partners for an exciting investment venture in renewable energy.\n\nI’d love to discuss this in detail with you. Are you available for a call this week?\n\nBest regards,\nMike",
+          "daysLeft": 1,
+          "correction": "Mike’s email is professional, and he represents a known venture capital group, indicating a legitimate opportunity.",
+          "attachment": null,
+          "extraReward": 5000
+        },
+        {
+          "sender": "laura.mitchell@financeconsulting.com",
+          "date": "12/02/24 09:30 AM",
+          "title": "Collaboration on New Investment Trends",
+          "body": "Hi Macs,\n\nI’ve been researching innovative investment strategies, and I believe we could create a unique partnership focusing on emerging markets. I’d love to share my insights and hear your thoughts.\n\nLet’s schedule a time to chat!\nBest,\nLaura",
+          "daysLeft": 1,
+          "correction": "Laura’s approach is professional and specific to industry trends, indicating a genuine interest in collaboration.",
+          "attachment": "Investment_Trends_2024.pdf",
+          "extraReward": 5000
+        },
+        {
+          "sender": "alex.brown@marketresearch.com",
+          "date": "14/02/24 02:15 PM",
+          "title": "Insights on Market Opportunities",
+          "body": "Hello Macs,\n\nI’m reaching out to share some recent market research that highlights emerging investment opportunities. I think it could be highly beneficial for your fund.\n\nWould you be interested in discussing this over coffee?\n\nBest wishes,\nAlex",
+          "daysLeft": 1,
+          "correction": "Alex is from a reputable research firm and offers insights relevant to your work, making this a safe communication.",
+          "attachment": "Market_Opportunities_2024.pdf",
+          "extraReward": 5000
+        },
+        {
+          "sender": "tom.harris@financialnetwork.org",
+          "date": "16/02/24 11:00 AM",
+          "title": "Networking and Partnership Discussion",
+          "body": "Hi Macs,\n\nIt was great meeting you at the recent investment conference! I’d love to follow up on our conversation and explore potential partnerships between our funds.\n\nLet me know when you’re available!\nBest,\nTom",
+          "daysLeft": 1,
+          "correction": "Tom references a recent meeting, providing a personal connection that reinforces the legitimacy of his email.",
+          "attachment": null,
+          "extraReward": 5000
+        },
+        {
+          "sender": "susan.james@wealthmanagement.com",
+          "date": "18/02/24 01:25 PM",
+          "title": "Exploring Joint Ventures",
+          "body": "Hi Macs,\n\nI’m part of a wealth management firm, and we’re looking to expand our portfolio through joint ventures. I believe your fund could align well with our goals.\n\nWould you be open to a discussion?\nSincerely,\nSusan",
+          "daysLeft": 1,
+          "correction": "Susan’s email originates from a well-known wealth management firm, suggesting a serious inquiry into a partnership.",
+          "attachment": null,
+          "extraReward": 5000
+        },
+        {
+          "sender": "mark.williams@globalinvestors.com",
+          "date": "20/02/24 10:05 AM",
+          "title": "Investment Opportunity in Tech Startups",
+          "body": "Dear Macs,\n\nWe have identified several promising tech startups looking for funding. I think your expertise could greatly benefit them.\n\nCan we schedule a call to discuss this further?\nBest regards,\nMark",
+          "daysLeft": 1,
+          "correction": "Mark’s offer is specific and relevant, indicating a professional opportunity that is not typical of scams.",
+          "attachment": "Tech_Startups_Investment_Overview.pdf",
+          "extraReward": 5000
+        },
+        {
+          "sender": "cathy.lee@strategicventures.com",
+          "date": "22/02/24 12:30 PM",
+          "title": "Partnership Inquiry",
+          "body": "Hi Macs,\n\nI hope you’re doing well! I’ve been following your investment fund's progress and would love to explore potential partnership opportunities that could enhance our portfolios.\n\nLet’s connect soon!\nCheers,\nCathy",
+          "daysLeft": 1,
+          "correction": "Cathy’s email reflects genuine admiration for your work, which is not characteristic of phishing attempts.",
+          "attachment": null,
+          "extraReward": 5000
+        },
+        {
+          "sender": "chris.daniels@investmentstrategy.com",
+          "date": "24/02/24 02:00 PM",
+          "title": "Synergistic Investment Strategies",
+          "body": "Hello Macs,\n\nI’m reaching out to propose a collaboration on synergistic investment strategies that could amplify returns for both our funds. I would love to discuss this in detail.\n\nBest,\nChris",
+          "daysLeft": 1,
+          "correction": "Chris presents a clear and relevant proposal, showcasing a professional tone typical of legitimate business communications.",
+          "attachment": null,
+          "extraReward": 5000
+        },
+        {
+          "sender": "patricia.wong@financeexperts.com",
+          "date": "26/02/24 03:15 PM",
+          "title": "Invitation to Discuss Investment Opportunities",
+          "body": "Dear Macs,\n\nWe are looking for investment partners to join our new fund focusing on sustainable businesses. Your insights would be invaluable!\n\nWould you like to discuss this over a meeting?\nBest regards,\nPatricia",
+          "daysLeft": 1,
+          "correction": "Patricia’s invitation is formal and details a legitimate investment focus, making it a trustworthy opportunity.",
+          "attachment": null,
+          "extraReward": 5000
+        },
+        {
+          "sender": "ben.smith@capitaladvisors.com",
+          "date": "28/02/24 10:50 AM",
+          "title": "Exploring a Unique Investment Proposal",
+          "body": "Hi Macs,\n\nI hope you’re doing well! I’d love to discuss a unique investment proposal that aligns with your fund's objectives.\n\nLet me know your availability!\nBest,\nBen",
+          "daysLeft": 1,
+          "correction": "Ben’s email is succinct and professional, with a clear intent that is characteristic of legitimate business proposals.",
+          "attachment": null,
+          "extraReward": 5000
+        },
+        {
+          "sender": "kelly.martinez@financeteam.com",
+          "date": "01/03/24 09:30 AM",
+          "title": "Partnership Potential Discussion",
+          "body": "Hi Macs,\n\nI’m part of a team looking to forge partnerships with innovative funds like yours. I’d love to explore how we can work together.\n\nBest,\nKelly",
+          "daysLeft": 1,
+          "correction": "Kelly’s outreach is based on mutual benefit, a hallmark of serious business inquiries rather than scams.",
+          "attachment": null,
+          "extraReward": 5000
+        },
+        {
+          "sender": "james.white@financialconsultancy.com",
+          "date": "03/03/24 01:15 PM",
+          "title": "Discussing a Strategic Partnership",
+          "body": "Hello Macs,\n\nI came across your fund and think we could benefit from a strategic partnership. I’d love to discuss ideas over a call.\n\nBest regards,\nJames",
+          "daysLeft": 1,
+          "correction": "James’ email is professionally written and indicates a desire for a mutually beneficial relationship, indicating trust.",
+          "attachment": null,
+          "extraReward": 5000
+        },
+        {
+          "sender": "olivia.thompson@privateequity.com",
+          "date": "05/03/24 04:40 PM",
+          "title": "Investment Collaboration Inquiry",
+          "body": "Dear Macs,\n\nWe’re looking to collaborate with dynamic investment funds, and your approach is impressive. Let’s discuss a potential partnership!\n\nSincerely,\nOlivia",
+          "daysLeft": 1,
+          "correction": "Olivia references specific attributes of your fund, indicating familiarity that supports the authenticity of the email.",
+          "attachment": null,
+          "extraReward": 5000
+        },
+        {
+          "sender": "matthew.jones@financialservices.com",
+          "date": "07/03/24 11:00 AM",
+          "title": "Joint Venture Proposal",
+          "body": "Hi Macs,\n\nI’m reaching out from Financial Services to propose a joint venture that could leverage both our strengths in the market. Interested in a discussion?\n\nBest,\nMatthew",
+          "daysLeft": 1,
+          "correction": "Matthew's clear intent and professional tone make it unlikely that this is a scam; it appears to be a serious inquiry.",
+          "attachment": null,
+          "extraReward": 5000
+        },
+        {
+          "sender": "sara.king@investmentnetwork.com",
+          "date": "09/03/24 09:15 AM",
+          "title": "Networking Opportunity",
+          "body": "Hello Macs,\n\nI hope this email finds you well! I’d love to connect and discuss networking opportunities that could lead to fruitful partnerships.\n\nLet me know when you’re available!\nCheers,\nSara",
+          "daysLeft": 1,
+          "correction": "Sara’s friendly approach and request for networking are typical of genuine professional outreach.",
+          "attachment": null,
+          "extraReward": 5000
+        },
+        {
+          "sender": "charles.miller@financialstrategies.com",
+          "date": "11/03/24 03:30 PM",
+          "title": "Investment Strategies Meeting",
+          "body": "Hi Macs,\n\nI’m reaching out to set up a meeting regarding innovative investment strategies that could benefit our firms. When are you available?\n\nBest,\nCharles",
+          "daysLeft": 1,
+          "correction": "Charles presents a specific agenda and a professional demeanor, indicating this is likely a legitimate email.",
+          "attachment": null,
+          "extraReward": 5000
+        }
+      ]
+    }
+  },
+  "scamCategories": {
+    "phishingScam": {
+      "count": 25,
+      "emails": [
+        {
+          "sender": "info@wealthgrow-investments.net",
+          "date": "03/01/24 10:15 AM",
+          "title": "Confirm Your Investment Portfolio Update",
+          "body": "Dear Investor,\n\nWe have updated your investment portfolio as per market trends. To access the latest report, please confirm your identity by replying with your full name, date of birth, and investment account number.\n\nWealthGrow Investments Support Team",
+          "daysLeft": 1,
+          "correction": "Legitimate investment firms never ask for sensitive information via email. Always log in to a secure portal instead.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "support@financialsec-systems.com",
+          "date": "05/01/24 03:20 PM",
+          "title": "Urgent: Security Check on Your Investment Account",
+          "body": "Dear Valued Client,\n\nWe detected a potential security breach in your investment account. To ensure safety, please reply with your login credentials and recent transactions for verification.\n\nFinancial Security Systems",
+          "daysLeft": 1,
+          "correction": "Reputable companies never request login credentials over email. Phishing attempts often use fake urgency.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "admin@privatestockupdates.net",
+          "date": "07/01/24 11:45 AM",
+          "title": "Exclusive Stock Tip: Immediate Action Required",
+          "body": "Dear Investor,\n\nYou have been selected for an exclusive opportunity in a rising stock. Reply with your brokerage account details to receive insider access.\n\nPrivate Stock Updates Team",
+          "daysLeft": 1,
+          "correction": "No legitimate service asks for brokerage account details via email. Insider trading tips are often scams.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "rewards@bank-investmentrewards.com",
+          "date": "10/01/24 08:30 AM",
+          "title": "Claim Your Investment Bonus",
+          "body": "Congratulations!\n\nAs a loyal investor, you are eligible for a $500 bonus. To claim, reply with your account number and the last four digits of your credit card.\n\nBank Investment Rewards",
+          "daysLeft": 1,
+          "correction": "Scammers lure victims with fake rewards to get sensitive information. Banks never request such details via email.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "helpdesk@forexsecure-alerts.com",
+          "date": "12/01/24 04:10 PM",
+          "title": "Urgent Forex Account Validation Required",
+          "body": "Dear Trader,\n\nWe noticed unusual activity on your Forex account. Kindly provide your account number, password, and recent trades to secure your funds.\n\nForex Secure Helpdesk",
+          "daysLeft": 1,
+          "correction": "Legitimate financial services never ask for passwords via email. Phishing emails use fake threats to extract information.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "notices@crypto-safewallets.net",
+          "date": "14/01/24 09:00 AM",
+          "title": "Action Required: Verify Your Crypto Wallet",
+          "body": "Dear Investor,\n\nDue to a blockchain update, you must verify your wallet address. Please reply with your wallet seed phrase to ensure uninterrupted access.\n\nCrypto Safe Wallets Support",
+          "daysLeft": 1,
+          "correction": "Legitimate crypto services never ask for seed phrases or keys via email. Scams often target crypto investors.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "alerts@estate-fundmanagers.com",
+          "date": "16/01/24 02:50 PM",
+          "title": "Estate Fund Liquidation: Urgent Confirmation Needed",
+          "body": "Dear Investor,\n\nYour estate fund is being liquidated. To process your share, reply with your banking details and identification number.\n\nEstate Fund Managers",
+          "daysLeft": 1,
+          "correction": "Phishing scams use false urgency to gather financial details. Contact your fund manager directly through official means.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "account@hedgefund-vipaccess.net",
+          "date": "18/01/24 01:20 PM",
+          "title": "Hedge Fund VIP Access Verification",
+          "body": "Dear Investor,\n\nConfirm your VIP status for a lucrative hedge fund opportunity. Reply with your investment account login and phone number.\n\nHedge Fund VIP Services",
+          "daysLeft": 1,
+          "correction": "No investment firm requests login details over email. Scammers impersonate financial services to steal data.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "admin@global-stocksplatform.com",
+          "date": "20/01/24 05:15 PM",
+          "title": "Global Stocks Platform Update",
+          "body": "Dear Investor,\n\nOur platform is upgrading. To avoid service disruption, reply with your investment portfolio ID and email password.\n\nGlobal Stocks Platform Admin",
+          "daysLeft": 1,
+          "correction": "Phishing emails often disguise as service updates. No company ever asks for email passwords.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "support@mutualfund-safezone.com",
+          "date": "22/01/24 07:55 AM",
+          "title": "Verify Your Mutual Fund Account Information",
+          "body": "Dear Client,\n\nFor security purposes, we require confirmation of your mutual fund account. Reply with your account number and full name.\n\nMutual Fund SafeZone Team",
+          "daysLeft": 1,
+          "correction": "Legitimate financial institutions do not verify account information over email. Scammers try to impersonate familiar names.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "service@dividend-notices.com",
+          "date": "25/01/24 12:35 PM",
+          "title": "Upcoming Dividend Payment: Verify Details",
+          "body": "Dear Investor,\n\nYou are eligible for a dividend payout. To process, please provide your banking details and account holder information.\n\nDividend Notices Service",
+          "daysLeft": 1,
+          "correction": "Dividends are processed through official investment platforms, not by sharing banking details over email.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "info@privatetradingalerts.org",
+          "date": "28/01/24 11:25 AM",
+          "title": "Private Trading Alert: Verify Identity",
+          "body": "Dear Investor,\n\nFor access to private trading tips, verify your identity by replying with your driver's license number and bank account info.\n\nPrivate Trading Alerts Team",
+          "daysLeft": 1,
+          "correction": "Identity verification should never involve sharing sensitive personal information via email. Phishers use fake opportunities.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "alerts@precious-metalsinvestments.com",
+          "date": "30/01/24 08:40 PM",
+          "title": "Urgent: Precious Metals Market Crash Warning",
+          "body": "Dear Investor,\n\nTo avoid heavy losses, transfer your metals investment to our secure account. Reply with your portfolio details to proceed.\n\nPrecious Metals Investment Alerts",
+          "daysLeft": 1,
+          "correction": "Scammers often fabricate market crashes to prompt hasty decisions. Investment transfers should never be made via email.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "admin@bond-marketwatch.net",
+          "date": "02/02/24 06:15 AM",
+          "title": "Bond Market Warning: Validate Your Assets",
+          "body": "Dear Investor,\n\nOur analysts predict a bond market downturn. Verify your bond assets by replying with your account number and security code.\n\nBond Market Watch Admin",
+          "daysLeft": 1,
+          "correction": "Market warnings should come from verified sources. Providing security codes via email is highly unsafe.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "helpdesk@realestate-alertspro.net",
+          "date": "04/02/24 03:00 PM",
+          "title": "Real Estate Investment Alert",
+          "body": "Dear Investor,\n\nYour real estate investment portfolio needs urgent review. Reply with your property addresses and account details for a full assessment.\n\nReal Estate Alerts Pro",
+          "daysLeft": 1,
+          "correction": "Investment reviews are never initiated through unsolicited emails. Property details should not be shared this way.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "advisor@offshore-wealthmanagers.com",
+          "date": "06/02/24 09:35 AM",
+          "title": "Offshore Wealth Transfer Alert",
+          "body": "Dear Investor,\n\nWe are transferring your offshore funds. Confirm your banking details and tax ID to proceed.\n\nOffshore Wealth Managers",
+          "daysLeft": 1,
+          "correction": "Wealth transfers should be handled securely through official communication, not via emails requesting banking information.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "security@cryptoinvest-safeguard.com",
+          "date": "08/02/24 10:50 AM",
+          "title": "Crypto Account Suspicious Activity",
+          "body": "Dear User,\n\nWe detected suspicious transactions. To secure your funds, reply with your wallet address and private key.\n\nCrypto Invest Safeguard Team",
+          "daysLeft": 1,
+          "correction": "Private keys should never be shared. This is a classic phishing attempt targeting cryptocurrency investors.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "admin@highyieldsavings-notice.org",
+          "date": "11/02/24 05:45 PM",
+          "title": "High Yield Savings: Account Frozen",
+          "body": "Dear Account Holder,\n\nYour high yield savings account has been frozen due to policy violations. Reply with your account number and SSN to resolve.\n\nHigh Yield Savings Admin",
+          "daysLeft": 1,
+          "correction": "Freezing accounts involves official communication and does not require sensitive information via email.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "alerts@vipstocks-growthalerts.net",
+          "date": "14/02/24 02:25 PM",
+          "title": "VIP Stock Growth Alert",
+          "body": "Dear Investor,\n\nYou have been selected for a premium stock growth alert. To subscribe, reply with your credit card number and billing address.\n\nVIP Stocks Growth Alerts",
+          "daysLeft": 1,
+          "correction": "Never provide credit card information via email. Phishing scams often promise exclusive offers to lure victims.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "updates@investmentwatch-securemail.org",
+          "date": "16/02/24 11:10 AM",
+          "title": "Secure Your Investment Account Now",
+          "body": "Dear Valued Investor,\n\nOur new security policy requires confirmation of your investment account. Reply with your account PIN and investment ID.\n\nInvestment Watch Security Team",
+          "daysLeft": 1,
+          "correction": "Security policies do not require replying with sensitive information. Phishers mimic security updates to trick users.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "ndp2025-tickets@gov-sg-events.info",
+          "date": "08/02/25 09:10 AM",
+          "title": "NDP 2025 Ticket Purchase Confirmation",
+          "body": "Dear Citizen,\n\nCongratulations! You can now purchase your NDP 2025 tickets. To secure your seats, complete payment via the link below.\nAct fast—limited tickets!\n\nVerify & Pay: http://ndp2025-govtickets.info/confirm\n\nNational Celebrations Team",
+          "daysLeft": 1,
+          "correction": "NDP 2025 tickets are NOT for sale and there is no authorised resale. Verify government sites (look for .gov.sg) and claim benefits only via the official links. Use ScamShield to check suspicious links and messages.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "sg60-vouchers@redeem-govsg.co",
+          "date": "08/05/25 11:25 AM",
+          "title": "[Action Required] Claim Your SG60 Vouchers Now",
+          "body": "Dear Resident,\n\nYou are eligible for SG60 vouchers. Redeem immediately at the secure portal below. Failure to redeem within 24 hours will result in forfeiture.\n\nRedeem: http://go-govsg.sg60-vouchers.co/claim\nSupport Team",
+          "daysLeft": 1,
+          "correction": "Claim SG60 vouchers ONLY at the official site (go.gov.sg/SG60vouchers). Scammers may spoof government messages and websites; verify .gov.sg and consult gov.sg/trusted-sites. Never enter banking details on unverified links.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "sgculturepass@credits-activate.com",
+          "date": "08/12/25 02:40 PM",
+          "title": "Activate Your SG Culture Pass Credits Today",
+          "body": "Hello,\n\nYour SG Culture Pass credits are available now. Activate your credits and shop from our partners today.\n\nActivate: http://sg-culturepass-credit.com/activate\nCultural Grants Office",
+          "daysLeft": 1,
+          "correction": "SG Culture Pass credits are only available from 1 Sep 2025. Any website/SMS offering redemption before 1 Sep 2025 is fraudulent. Check legitimacy via ScamShield and with the relevant agency.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "notice@spfgov.sg-secure.support",
+          "date": "07/06/25 10:05 AM",
+          "title": "[SPF] Investigation Notice – Action Required",
+          "body": "Dear Sir/Mdm,\n\nYou are under investigation for money laundering. To avoid arrest, sign in with your bank credentials at the secure portal below and transfer your funds to a safety account for verification.\n\nPortal: http://spf-secure-verify.support\n\nSingapore Police Force",
+          "daysLeft": 1,
+          "correction": "Government officials will NEVER ask you to transfer money or disclose bank log-in details over a call or email. Hang up/ignore, verify via official hotlines/websites, and check with the ScamShield Helpline (1799).",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "mas-compliance@gov-check.center",
+          "date": "07/09/25 04:20 PM",
+          "title": "Monetary Authority of Singapore: Account Freeze Prevention",
+          "body": "Dear Customer,\n\nYour bank account will be frozen due to suspicious transfers. Download the compliance app from the link below and follow the instructions to secure your assets.\n\nDownload: http://mas-compliance-app.center\n\nMonetary Authority of Singapore",
+          "daysLeft": 1,
+          "correction": "Never download apps from third‑party links or provide bank log-ins. Officials do not instruct transfers to ‘safety’ accounts or ask for credentials. Verify using official channels or the ScamShield Helpline (1799).",
+          "attachment": null,
+          "isHackable": false
+        }
+      ]
+    },
+    "invoiceScam": {
+      "count": 22,
+      "emails": [
+        {
+          "sender": "billdept@moneyrequest-universal.biz",
+          "date": "15/02/24 10:43 AM",
+          "title": "Payment Is URGENT, Dont Wait!!",
+          "body": "Hello Valued Costumer,\n\nYou is owe $274.95 for overdue bills. Immediate action needed or account will suspended!\n\nDownload ATTACHEMNT now to prevent late fees!\n\nThank,\nBilling Deparment",
+          "daysLeft": 1,
+          "correction": "Check for obvious spelling errors in email! Legitimate sources will not pressure you for payment by email, or ask you to download attachments to make payment!",
+          "attachment": "PastDue_Invoice_Feb2024.pdf",
+          "isHackable": false
+        },
+        {
+          "sender": "noticetax@tax-urgent-gov.biz",
+          "date": "28/03/24 02:20 PM",
+          "title": "Tax Warning Must To Pay Now!!",
+          "body": "ATTENTION Citizen,\n\nYou are in arrears of $1,432.85 of TAX money!! A arrest warrant will be issued against you if no pay soon! Reply with credit card to pay.\n\nLAST WARNING!\nTax Goverment Office",
+          "daysLeft": 1,
+          "correction": "Check for obvious spelling and grammatical errors in email! Legitimate sources will not pressure you for payment, or ask you for credit card information by email!",
+          "attachment": "Urgent_Tax_Bill_March2024.pdf",
+          "isHackable": false
+        },
+        {
+          "sender": "supportdesk@citytax.gov.bills",
+          "date": "10/04/24 11:57 AM",
+          "title": "Pay Property Tax Now",
+          "body": "Hello Homeowner,\n\nImportant NOTICE! Property tax of $820.50 will need paid urgent or you risk foreclosure!! Send credit card details now to pay today.\n\nBest reagrds,\nCity Revenue Servece",
+          "daysLeft": 1,
+          "correction": "Check for obvious spelling and grammatical errors in email! Legitimate sources will not pressure you for payment, or ask you for credit card information by email!",
+          "attachment": "PropertyTax_April2024.pdf",
+          "isHackable": false
+        },
+        {
+          "sender": "servicealert@urgentbankfees.biz",
+          "date": "04/05/24 08:34 AM",
+          "title": "Bank Account Fees Unpaid!",
+          "body": "Dear Account User,\n\nYou charged $35 overdraft fee. PAY FAST before more penalty come!! See attachement for details.\n\nAct Now Or More Fees Coming!\nBank Servece",
+          "daysLeft": 1,
+          "correction": "Check for obvious spelling and grammatical errors in email! Legitimate sources will not pressure you for payment by email or ask you to open attachments for payment details.",
+          "attachment": "BankFee_Notice_May2024.pdf",
+          "isHackable": false
+        },
+        {
+          "sender": "broadbandbill@highspeedinternetalert.com",
+          "date": "18/06/24 09:10 AM",
+          "title": "Internet Bill No Paid!",
+          "body": "Dear User,\n\nOverdue! $567.02 for your Internet not paid. Pay now or cut service!! Download attachement and send payment to bank account in email.\n\nFrom,\nSpeed ISP Support",
+          "daysLeft": 1,
+          "correction": "Check for obvious spelling and grammatical errors in email! Legitimate sources will not pressure you for payment, or ask you for bank transfers to account numbers provided in the email or attachments!",
+          "attachment": "InternetBill_June2024.pdf",
+          "isHackable": false
+        },
+        {
+          "sender": "carfinancealert@lease-warning.biz",
+          "date": "12/07/24 04:50 PM",
+          "title": "Car Lease Late Fee - Pay Now",
+          "body": "Dear Leaser,\n\nLease fee overdue $499.00!! Pay NOW or big penalty charge. See attachement invoice how pay urgent.\n\nCar Finanace Office",
+          "daysLeft": 1,
+          "correction": "Check for obvious spelling and grammatical errors in email! Legitimate sources will not pressure you for payment by email or ask you to open attachments for payment details.",
+          "attachment": "CarLeaseInvoice_July2024.pdf",
+          "isHackable": false
+        },
+        {
+          "sender": "poweralert@electric-fee-now.biz",
+          "date": "30/08/24 03:23 PM",
+          "title": "LAST WARNING! Pay Electric Bill",
+          "body": "Hello Costumer,\n\nOverdue $120.45 electricity! Pay immediately or power cut off! See attached file and reply with credit card details to pay now.\n\nUrgent from,\nPower Billing Team",
+          "daysLeft": 1,
+          "correction": "Check for obvious spelling and grammatical errors in email! Legitimate sources will not pressure you for payment, or ask you for credit card information by email!",
+          "attachment": "ElectricityInvoice_August2024.pdf",
+          "isHackable": false
+        },
+        {
+          "sender": "fasttax@taxsolve.biz",
+          "date": "05/09/24 12:15 PM",
+          "title": "TAXES DUE NOW!!!",
+          "body": "Dear Taxpayer,\n\nYour owe $950.25 TAX. Urgent pay needed or big problem! Open attachemnt NOW and pay to compeny account now.\n\nRegards,\nTax Fast Services",
+          "daysLeft": 1,
+          "correction": "Check for obvious spelling and grammatical errors in email! Legitimate sources will not pressure you for payment by email or ask you to open attachments for payment details.",
+          "attachment": "TaxSettlement_Invoice_Sept2024.pdf",
+          "isHackable": false
+        },
+        {
+          "sender": "insuranceclaim@payout-safe.org",
+          "date": "17/09/24 07:50 AM",
+          "title": "Unpaid Insurance - Dangerous!!",
+          "body": "Dear Insureed,\n\nUnpaid premium of $225.50 need now or policy will be revoked! Click here to make payment NOW.\n\nFrom,\nSafe Insurance Payout",
+          "daysLeft": 1,
+          "correction": "Check for obvious spelling and grammatical errors in email! Legitimate sources will not pressure you for payment by email or ask you to open attachments for payment details.",
+          "attachment": "Insurance_Invoice_Sep2024.pdf",
+          "isHackable": false
+        },
+        {
+          "sender": "protect@homealarmfees.biz",
+          "date": "23/09/24 02:45 PM",
+          "title": "Security Service Payment Due!!!",
+          "body": "Dear Office Owner,\n\nUrgent! $689.00 for security service no paid! Check attachement and pay or security cancel!!\n\nThanks,\nHome Alarm Protect",
+          "daysLeft": 1,
+          "correction": "Check for obvious spelling and grammatical errors in email! Legitimate sources will not pressure you for payment by email or ask you to open attachments for payment details.",
+          "attachment": "SecurityService_Invoice_Sep2024.pdf",
+          "isHackable": false
+        },
+        {
+          "sender": "telealerts@phonebill-urgent.net",
+          "date": "01/10/24 08:10 AM",
+          "title": "Phone Bill Final Warning!",
+          "body": "Dear Customer,\n\nPay $4502.60 for phone service overdue fees or disconnect! Urgent action require, check attachement and reply with credit card number.\n\nTelecommunication Office",
+          "daysLeft": 1,
+          "correction": "Check for obvious spelling and grammatical errors in email! Legitimate sources will not pressure you for payment, or ask you for credit card information by email!",
+          "attachment": "PhoneBill_Invoice_Oct2024.pdf",
+          "isHackable": false
+        },
+        {
+          "sender": "govtoll@roadfine-services.org",
+          "date": "14/10/24 09:40 AM",
+          "title": "Toll Charges No Paid!!",
+          "body": "Dear Driver,\n\nBig trouble! Toll fees unpaid $250.00. Pay now or police action! See attachement for pay.\n\nGov Road Toll Team",
+          "daysLeft": 1,
+          "correction": "Check for obvious spelling and grammatical errors in email! The authorities will not coerce you for payment by email for unpaid fines/fees, or ask you to open attachments for payment details.",
+          "attachment": "TollFines_Oct2024.pdf",
+          "isHackable": false
+        },
+        {
+          "sender": "utilitydept@poweralert.biz",
+          "date": "20/10/24 11:05 AM",
+          "title": "Pay Electric Bill Now To Avoid Cut Off",
+          "body": "Dear Costumer,\n\nImmediate action!! $310,75 unpaid! Pay or electric shut off soon. Download attachment and pay. \n\nThanks,\nUtility Dept Billing",
+          "daysLeft": 1,
+          "correction": "Check for obvious spelling and grammatical errors in email! Legitimate sources will not pressure you for payment by email or ask you to open attachments for payment details.",
+          "attachment": "UnpaidPower_Invoice_Oct2024.pdf",
+          "isHackable": false
+        },
+        {
+          "sender": "interestfees@payment-alert.net",
+          "date": "24/10/24 03:15 PM",
+          "title": "Urgent Interest Fee Payment Needed",
+          "body": "Dear Lender,\n\nPay $1.200,00 interest fee IMMEDIATELY or big penalty! See attached document to pay now.\n\nSchool Finance Office",
+          "daysLeft": 1,
+          "correction": "Check for obvious spelling and grammatical errors in email! Legitimate sources will not pressure you for payment by email or ask you to open attachments for payment details.",
+          "attachment": "TuitionFee_Invoice_Oct2024.pdf",
+          "isHackable": false
+        },
+        {
+          "sender": "medicallab@clinicbilling-safe.com",
+          "date": "28/10/24 12:30 PM",
+          "title": "Lab Test Fee Overdue!!",
+          "body": "Dear Patient,\n\n$150.00 unpaid for lab tests! Download attachement now or extra fees. Pay URGENTLY!\n\nClinic Lab Billing",
+          "daysLeft": 1,
+          "correction": "Check for obvious spelling and grammatical errors in email! Legitimate sources will not pressure you for payment by email or ask you to open attachments for payment details, or threaten additional fees for not paying NOW.",
+          "attachment": "LabTestFees_Oct2024.pdf",
+          "isHackable": false
+        },
+        {
+          "sender": "tenantalert@rent-payment.co",
+          "date": "02/11/24 05:50 PM",
+          "title": "Immediate Rent Payment Or Eviction!",
+          "body": "Dear Tenant,\n\nYour owe $1.800,00 office rent!! Pay today or eviction notice!! Check attachement for payment link.\n\nTenant Alert",
+          "daysLeft": 1,
+          "correction": "Check for obvious spelling and grammatical errors in email! Legitimate sources will not pressure you for payment by email, or ask you to open attachments for payment details, or threaten eviction as a consequence by email!",
+          "attachment": "RentInvoice_Nov2024.pdf",
+          "isHackable": false
+        },
+        {
+          "sender": "parkingviolations@city-fines.com",
+          "date": "06/11/24 07:25 AM",
+          "title": "Parking Ticket Pay Now!!!",
+          "body": "Dear Car Owner,\n\n$85.00 unpaid fine! Immediate pay or court summons. Download attach!\n\nParking Violations Team",
+          "daysLeft": 1,
+          "correction": "Check for obvious spelling and grammatical errors in email! Government authorities will not pressure you for payment by email, or coerce you via email!",
+          "attachment": "ParkingFines_Nov2024.pdf",
+          "isHackable": false
+        },
+        {
+          "sender": "dataoveruse@web-provider.net",
+          "date": "10/11/24 09:35 AM",
+          "title": "Data Usage Over Limit Fee!",
+          "body": "Hello User,\n\n$20451.23 data overuse fee not paid! Download attachement and pay now by bank transfer to avoid extra!\n\nWeb Provider Billing",
+          "daysLeft": 1,
+          "correction": "Check for obvious spelling and grammatical errors in email! Legitimate sources will not pressure you for payment, or ask you for bank transfers to account numbers provided in the email or attachments!",
+          "attachment": "DataFee_Nov2024.pdf",
+          "isHackable": false
+        },
+        {
+          "sender": "wateralert@aquabills.net",
+          "date": "15/11/24 12:10 PM",
+          "title": "Water Bill Late Payment Fee!!",
+          "body": "Dear Customer,\n\n$459.00 unpaid water fee! Pay immediately or extra fees added. See attachement.\n\nThanks,\nAqua Bills Team",
+          "daysLeft": 1,
+          "correction": "Check for obvious spelling and grammatical errors in email! Legitimate sources will not pressure you for payment by email, or ask you to open attachments for payment details!",
+          "attachment": "WaterBill_Nov2024.pdf",
+          "isHackable": false
+        },
+        {
+          "sender": "telecomwarn@united-phone.net",
+          "date": "20/11/24 06:10 PM",
+          "title": "Past Due Phone Bill",
+          "body": "Dear Costumer,\n\nPhone bill unpaid $38,75! Action urgent needed to avoid cut off! Open attachement for pay.\n\nFrom,\nUnited Telecom",
+          "daysLeft": 1,
+          "correction": "Check for obvious spelling and grammatical errors in email! Legitimate sources will not pressure you for payment by email, or ask you to open attachments for payment details!",
+          "attachment": "PastDuePhoneBill_Nov2024.pdf",
+          "isHackable": false
+        },
+        {
+          "sender": "support@insuremax-services.com",
+          "date": "09/06/25 09:30 AM",
+          "title": "Your Trial Plan Will Auto‑Renew – Verify Identity to Cancel",
+          "body": "Dear Policyholder,\n\nYour insurance trial package renews today. To cancel, verify your identity by transferring $299 to the verification account listed below. Failure to act will result in charges for the next 12 months.\n\nRegards,\nInsureMax Services",
+          "daysLeft": 1,
+          "correction": "Scammers pose as insurers and demand transfers ‘to verify identity’. Do NOT transfer money for cancellation. Contact your insurer through official channels. Use Add‑Check‑Tell (ACT) and the ScamShield app.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "no-reply@policy-cancelhub.net",
+          "date": "09/08/25 01:05 PM",
+          "title": "Cancellation Processing Fee Required",
+          "body": "Dear Customer,\n\nWe received your cancellation request. Pay the processing fee via bank transfer within 2 hours to avoid policy lock‑in. Reply with your NRIC and last 4 digits of your card to confirm.\n\nBilling Team",
+          "daysLeft": 1,
+          "correction": "Legitimate insurers do not require urgent transfers or personal particulars over email to cancel plans. Never share NRIC or card information via email; verify directly with your insurer.",
+          "attachment": null,
+          "isHackable": false
+        }
+      ]
+    },
+    "ransomwareScam": {
+      "count": 20,
+      "emails": [
+        {
+          "sender": "securityalert@system-secureupdate.net",
+          "date": "05/01/24 07:30 AM",
+          "title": "Critical System Update Required",
+          "body": "Dear User,\n\nYour computer security is at RISK! Open the attached update file to protect your device now.\n\nIf you do not act within 24 hours, your system will be compromised.\n\nRegards,\nSecurity Update Team",
+          "daysLeft": 1,
+          "correction": "Attachment is an executable file disguised as a security update; legitimate updates come from trusted software sources.",
+          "attachment": "SystemUpdate_2024.exe",
+          "isHackable": true
+        },
+        {
+          "sender": "accountservices@paypal-verification.com",
+          "date": "10/01/24 03:15 PM",
+          "title": "PayPal Account Verification Needed",
+          "body": "Dear Customer,\n\nYour PayPal account has suspicious activity. Open the attached file to verify your identity now!\n\nFailure to respond will result in permanent account suspension.\n\nThanks,\nPayPal Account Services",
+          "daysLeft": 1,
+          "correction": "Attachment claims to be related to account verification but is an executable file; PayPal would not send attachments for verification.",
+          "attachment": "VerifyAccount_PayPal2024.msi",
+          "isHackable": true
+        },
+        {
+          "sender": "notifications@official-taxservice.info",
+          "date": "15/01/24 11:50 AM",
+          "title": "Urgent: Tax Document Enclosed",
+          "body": "Dear Taxpayer,\n\nYour tax return requires immediate attention. Please open the attached file to review your tax obligations.\n\nFailure to comply may result in penalties.\n\nSincerely,\nOfficial Tax Service",
+          "daysLeft": 1,
+          "correction": "Attachment appears to be a tax document but is an executable file; tax agencies communicate via secure websites, not attachments.",
+          "attachment": "TaxNotice_Jan2024.app"
+        },
+        {
+          "sender": "hr@job-offersworldwide.net",
+          "date": "20/01/24 09:00 AM",
+          "title": "Exciting Job Offer Awaiting You!",
+          "body": "Dear Applicant,\n\nCongratulations! You have been selected for a high-paying job. Open the attached offer letter to learn more and accept the position.\n\nWarm Regards,\nHR Team",
+          "daysLeft": 1,
+          "correction": "Attachment is suspiciously an executable, not a text or PDF file; job offers are not typically sent this way.",
+          "attachment": "JobOffer_Jan2024.exe",
+          "isHackable": true
+        },
+        {
+          "sender": "support@apple-recoverycenter.com",
+          "date": "22/01/24 02:40 PM",
+          "title": "Apple ID Account Locked",
+          "body": "Dear User,\n\nYour Apple ID has been temporarily locked due to unusual activity. Open the attached file to restore access immediately.\n\nThank you,\nApple Recovery Center",
+          "daysLeft": 1,
+          "correction": "Attachment claims to unlock an Apple ID but is an executable; Apple never sends attachments for account issues.",
+          "attachment": "AppleIDRecovery_2024.msi",
+          "isHackable": true
+        },
+        {
+          "sender": "itdept@company-emailsecure.com",
+          "date": "25/01/24 04:30 PM",
+          "title": "IT Security Audit - Action Required",
+          "body": "Dear Employee,\n\nIT Security audit requires your immediate action. Open the attached file to complete the security review.\n\nThis is mandatory!\n\nIT Department",
+          "daysLeft": 1,
+          "correction": "Attachment is an executable disguised as a security audit file; companies typically perform audits through official channels.",
+          "attachment": "SecurityAudit_Jan2024.exe",
+          "isHackable": true
+        },
+        {
+          "sender": "notifications@cryptowalletalert.io",
+          "date": "30/01/24 12:50 PM",
+          "title": "Cryptocurrency Wallet Alert",
+          "body": "Dear User,\n\nUnusual activity detected in your wallet. Open the attached file to secure your funds immediately.\n\nCrypto Wallet Team",
+          "daysLeft": 1,
+          "correction": "Attachment claims to be a security tool but is an executable file; crypto platforms use in-app notifications, not attachments.",
+          "attachment": "WalletSecurityAlert_2024.app",
+          "isHackable": true
+        },
+        {
+          "sender": "courier@dhl-globaldelivery.biz",
+          "date": "05/02/24 08:15 AM",
+          "title": "Package Delivery Confirmation Needed",
+          "body": "Dear Customer,\n\nYour package is pending delivery. Please open the attached file to confirm your address and reschedule delivery.\n\nSincerely,\nDHL Global Delivery",
+          "daysLeft": 1,
+          "correction": "Attachment is disguised as a delivery document but is an executable; courier services provide tracking links, not attachments.",
+          "attachment": "DeliveryConfirmation_Feb2024.exe",
+          "isHackable": true
+        },
+        {
+          "sender": "hr@employment-bureau.com",
+          "date": "10/02/24 01:10 PM",
+          "title": "Employment Application Received",
+          "body": "Dear Applicant,\n\nThank you for your application. Please open the attached file to review and sign the employment agreement.\n\nBest Regards,\nHR Bureau",
+          "daysLeft": 1,
+          "correction": "Attachment is suspiciously an executable; legitimate employment agreements are sent as PDFs or through secure platforms.",
+          "attachment": "EmploymentAgreement_Feb2024.msi",
+          "isHackable": true
+        },
+        {
+          "sender": "vpnalerts@privacysecure.net",
+          "date": "15/02/24 03:45 PM",
+          "title": "VPN Service Expiry - Renew Now",
+          "body": "Dear Subscriber,\n\nYour VPN subscription will expire in 24 hours. Open the attached file to renew and continue enjoying privacy.\n\nVPN Security Team",
+          "daysLeft": 1,
+          "correction": "Attachment is an executable file disguised as a renewal notice; VPN services use secure payment gateways, not attachments.",
+          "attachment": "VPNRenewal_Feb2024.exe",
+          "isHackable": true
+        },
+        {
+          "sender": "admin@localgovservices.org",
+          "date": "20/02/24 06:00 PM",
+          "title": "Property Tax Due Now",
+          "body": "Dear Resident,\n\nYour property tax is overdue. Open the attached file for payment instructions to avoid penalties.\n\nLocal Government Services",
+          "daysLeft": 1,
+          "correction": "Attachment is an executable file, not a genuine tax document; official government correspondence would not include such files.",
+          "attachment": "PropertyTaxNotice_Feb2024.app",
+          "isHackable": true
+        },
+        {
+          "sender": "webmaster@website-supportalerts.com",
+          "date": "25/02/24 11:20 AM",
+          "title": "Website Security Compromised",
+          "body": "Dear Website Owner,\n\nYour website security has been breached. Open the attached file to patch vulnerabilities immediately.\n\nWebmaster Support Team",
+          "daysLeft": 1,
+          "correction": "Attachment claims to be a security patch but is an executable; real security alerts provide guidance, not files.",
+          "attachment": "SecurityPatch_Feb2024.msi",
+          "isHackable": true
+        },
+        {
+          "sender": "rewards@amazon-primeoffers.net",
+          "date": "28/02/24 09:35 AM",
+          "title": "Claim Your Amazon Gift Card!",
+          "body": "Dear Customer,\n\nYou have won a $100 Amazon gift card! Open the attached file to claim your prize.\n\nCongratulations!\nAmazon Rewards Team",
+          "daysLeft": 1,
+          "correction": "Attachment is an executable file pretending to be a reward claim; legitimate rewards are not processed through attachments.",
+          "attachment": "AmazonGiftCard_Feb2024.exe",
+          "isHackable": true
+        },
+        {
+          "sender": "alerts@banking-securemail.net",
+          "date": "05/03/24 02:05 PM",
+          "title": "Suspicious Bank Activity Alert",
+          "body": "Dear Account Holder,\n\nSuspicious activity detected on your account. Open the attached file to secure your funds immediately.\n\nBanking Security Team",
+          "daysLeft": 1,
+          "correction": "Attachment is an executable disguised as a bank alert; banks never send files for security verification.",
+          "attachment": "BankSecurityAlert_Mar2024.msi",
+          "isHackable": true
+        },
+        {
+          "sender": "support@netflix-billingupdates.com",
+          "date": "10/03/24 07:50 AM",
+          "title": "Netflix Subscription Expiring Soon",
+          "body": "Dear Subscriber,\n\nYour Netflix subscription is about to expire. Open the attached file to renew and continue streaming.\n\nThank you,\nNetflix Support",
+          "daysLeft": 1,
+          "correction": "Attachment is an executable, not a legitimate billing notice; Netflix manages subscriptions online, not through attachments.",
+          "attachment": "NetflixRenewal_Mar2024.exe",
+          "isHackable": true
+        },
+        {
+          "sender": "support@windows-securityalerts.net",
+          "date": "15/03/24 10:25 AM",
+          "title": "Windows Firewall Disabled - Fix Now",
+          "body": "Dear User,\n\nYour Windows Firewall is turned off. Open the attached file to enable protection immediately.\n\nRegards,\nWindows Security Team",
+          "daysLeft": 1,
+          "correction": "Attachment claims to fix a security issue but is an executable; Microsoft does not send such files via email.",
+          "attachment": "FirewallFix_Mar2024.app",
+          "isHackable": true
+        },
+        {
+          "sender": "admin@school-portalupdates.edu",
+          "date": "20/03/24 04:45 PM",
+          "title": "Parent-Teacher Conference Schedule",
+          "body": "Dear Parent,\n\nPlease open the attached file to view the schedule for the upcoming Parent-Teacher Conference.\n\nSchool Administration",
+          "daysLeft": 1,
+          "correction": "Attachment is an executable rather than a document; schools communicate through official portals or paper notices.",
+          "attachment": "ConferenceSchedule_Mar2024.exe",
+          "isHackable": true
+        },
+        {
+          "sender": "claims@insurance-compensation.biz",
+          "date": "25/03/24 12:15 PM",
+          "title": "Insurance Claim Approval",
+          "body": "Dear Policyholder,\n\nYour insurance claim has been approved! Open the attached file for the details and compensation process.\n\nSincerely,\nInsurance Claims Department",
+          "daysLeft": 1,
+          "correction": "Attachment is an executable, while claim details are typically shared through official communication channels.",
+          "attachment": "ClaimDetails_Mar2024.msi",
+          "isHackable": true
+        },
+        {
+          "sender": "admin@college-admissionsguide.com",
+          "date": "30/03/24 09:10 AM",
+          "title": "College Admission Results Released",
+          "body": "Dear Student,\n\nCongratulations! Your college admission results are out. Open the attached file to see if you've been accepted.\n\nGood luck!\nCollege Admissions Team",
+          "daysLeft": 1,
+          "correction": "Attachment is an executable file, not a PDF or official admission notice; admissions are announced via portals.",
+          "attachment": "AdmissionResults_Mar2024.app",
+          "isHackable": true
+        },
+        {
+          "sender": "rewards@airline-loyaltypoints.org",
+          "date": "02/04/24 03:30 PM",
+          "title": "Loyalty Points About to Expire",
+          "body": "Dear Member,\n\nYour airline loyalty points will expire soon. Open the attached file to redeem them now!\n\nAirline Rewards Team",
+          "daysLeft": 1,
+          "correction": "Attachment claims to help redeem points but is an executable; loyalty programs use secure websites, not files.",
+          "attachment": "LoyaltyPointsRedemption_Apr2024.exe",
+          "isHackable": true
+        }
+      ]
+    },
+    "personalScam": {
+      "count": 17,
+      "emails": [
+        {
+          "sender": "beautifulheart567@email.com",
+          "date": "12/02/24 10:05 AM",
+          "title": "A Sweet Connection",
+          "body": "Hi Macs,\n\nI came across your profile, and I must say, your smile is captivating! I would love to get to know you better. Let’s chat! Maybe we can meet for coffee?\n\nYou can reach me at my number: (555) 123-4567.\n\nHugs,\nLisa",
+          "daysLeft": 1,
+          "correction": "This email uses flattery and offers a phone number, but genuine connections usually start through known platforms. Be cautious of unsolicited romantic interest!",
+          "attachment": "profile_picture.jpg",
+          "isHackable": false
+        },
+        {
+          "sender": "romanticdreamer34@email.com",
+          "date": "15/02/24 03:15 PM",
+          "title": "You Have My Heart",
+          "body": "Dear Macs,\n\nYou have captured my heart from afar! I think we are meant to be together. Let’s plan a romantic getaway. I can’t wait to hear from you!\n\nReach me on Instagram: @dreamy_love_34\n\nYours forever,\nElena",
+          "daysLeft": 1,
+          "correction": "Elena's overly romantic language and urgent request for a getaway indicate she may not be genuine. Real love takes time to develop.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "sophisticatedlady88@email.com",
+          "date": "20/02/24 08:45 AM",
+          "title": "Let's Create Our Love Story",
+          "body": "Hi Macs,\n\nI believe we could write a beautiful love story together. I’m looking for someone who enjoys fine dining and long walks. How about we exchange numbers?\n\nText me at: (555) 987-6543.\n\nWarmly,\nSophie",
+          "daysLeft": 1,
+          "correction": "Sophie's request to exchange personal information too soon is a red flag. Genuine relationships take time and should start on secure platforms.",
+          "attachment": "romantic_dinner.jpg",
+          "isHackable": false
+        },
+        {
+          "sender": "lonelyhearts_club@email.com",
+          "date": "22/02/24 05:30 PM",
+          "title": "You Seem So Interesting!",
+          "body": "Hey Macs,\n\nI stumbled upon your profile and was drawn in by your interests! I love hiking and reading too. Can we talk more? Maybe we can plan a hike together!\n\nYou can email me at: lonelyhearts_club@email.com\n\nTake care,\nNina",
+          "daysLeft": 1,
+          "correction": "Nina's eagerness to connect without establishing trust first is suspicious. Real friendships grow over time, not through immediate proposals.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "gorgeous_soul@email.com",
+          "date": "25/02/24 11:20 AM",
+          "title": "Destined to Meet?",
+          "body": "Hi Macs,\n\nI feel like our paths are meant to cross! Let’s not waste any more time. I want to know you deeply. Can we chat on WhatsApp? My number is (555) 432-1098.\n\nKisses,\nEva",
+          "daysLeft": 1,
+          "correction": "Eva's urgency to move to private messaging is a common tactic in scams. Genuine relationships usually develop in more public spaces.",
+          "attachment": "romantic_image.png",
+          "isHackable": false
+        },
+        {
+          "sender": "loveandlight@email.com",
+          "date": "01/03/24 02:00 PM",
+          "title": "Seeking My Soulmate",
+          "body": "Dear Macs,\n\nI believe you could be my soulmate! Let’s explore our connection. Can we meet for a coffee soon? Here’s my email: loveandlight@email.com.\n\nLooking forward to it,\nCarmen",
+          "daysLeft": 1,
+          "correction": "Carmen's direct claim of being a soulmate is a tactic used in scams. Real connections take time and should involve trust-building.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "sweetdreams@email.com",
+          "date": "03/03/24 09:45 AM",
+          "title": "Let's Make Memories Together",
+          "body": "Hello Macs,\n\nYour profile caught my attention! I love traveling and would like to share experiences with you. Can we exchange pictures? Send me a message on my number: (555) 654-3210.\n\nWith love,\nMia",
+          "daysLeft": 1,
+          "correction": "Mia's request to exchange pictures right away without a prior conversation is suspicious. Genuine relationships develop gradually.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "adventurous_spirit@email.com",
+          "date": "05/03/24 12:30 PM",
+          "title": "Adventure Awaits Us!",
+          "body": "Hi Macs,\n\nI’m looking for a partner to explore the world with! You seem like a fun person to get to know. Let’s chat more! My WhatsApp is (555) 876-5432.\n\nExcited,\nZoe",
+          "daysLeft": 1,
+          "correction": "Zoe's immediate focus on adventure and her insistence on moving to private messaging are both common indicators of a scam. Real friendships require time.",
+          "attachment": "travel_destination.jpg",
+          "isHackable": false
+        },
+        {
+          "sender": "myheartisopen@email.com",
+          "date": "08/03/24 04:00 PM",
+          "title": "Your Heart is Safe with Me",
+          "body": "Hello Macs,\n\nI am very interested in your profile! I think we could share something beautiful together. Can we meet soon? I’m reachable at my number (555) 321-4321.\n\nBest,\nJulia",
+          "daysLeft": 1,
+          "correction": "Julia's promptness to meet without building rapport first is a clear red flag. Real relationships build trust over time.",
+          "attachment": "beautiful_sunset.jpg",
+          "isHackable": false
+        },
+        {
+          "sender": "loveletter2024@email.com",
+          "date": "10/03/24 10:15 AM",
+          "title": "A Romantic Proposal",
+          "body": "Dear Macs,\n\nI feel an incredible connection with you! Would you be open to discussing a romantic relationship? You can contact me at (555) 246-8101.\n\nHugs and kisses,\nAmy",
+          "daysLeft": 1,
+          "correction": "Amy’s approach is overly intense for a first email. Genuine relationships start with a slow build, not immediate declarations.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "loveyouforever@email.com",
+          "date": "12/03/24 03:00 PM",
+          "title": "Love is in the Air!",
+          "body": "Hi Macs,\n\nYou have such an intriguing aura! I would love to get to know you more intimately. Can we talk privately? Text me at (555) 789-0123.\n\nYours truly,\nLily",
+          "daysLeft": 1,
+          "correction": "Lily's desire to shift to private communication quickly is a common tactic in scams. Genuine connections build trust first.",
+          "attachment": "romantic_picture.jpg",
+          "isHackable": false
+        },
+        {
+          "sender": "sweetlove@email.com",
+          "date": "15/03/24 06:45 AM",
+          "title": "Your Perfect Match",
+          "body": "Hello Macs,\n\nI can see you are the perfect match for me! I want to share my life with you. Can you send me your photo? Reach me at (555) 345-6789.\n\nKisses,\nNora",
+          "daysLeft": 1,
+          "correction": "Nora’s immediate request for a photo is suspicious. Real connections do not rush personal exchanges without trust.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "mydearheart@email.com",
+          "date": "18/03/24 01:20 PM",
+          "title": "Let’s Explore Together!",
+          "body": "Hi Macs,\n\nI’m looking for someone special to share my life with! Would you be interested in getting to know each other? Text me at (555) 678-5432.\n\nSincerely,\nClara",
+          "daysLeft": 1,
+          "correction": "Clara's eagerness to share her life without first building rapport is a common sign of a scam. Genuine relationships take time to develop.",
+          "attachment": "couple_in_love.jpg",
+          "isHackable": false
+        },
+        {
+          "sender": "dreamlover@email.com",
+          "date": "21/03/24 09:00 AM",
+          "title": "A Dreamy Connection",
+          "body": "Hello Macs,\n\nI feel like we have a special connection! Would you like to meet for dinner soon? You can reach me at (555) 234-5678.\n\nWarm regards,\nAnna",
+          "daysLeft": 1,
+          "correction": "Anna’s quick suggestion to meet is a red flag. Genuine relationships start with mutual understanding and patience.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "lovingyoualways@email.com",
+          "date": "24/03/24 10:30 AM",
+          "title": "A Heartfelt Message",
+          "body": "Hi Macs,\n\nI can't stop thinking about you! Let’s chat more. I’m so excited to get to know you! Contact me at (555) 567-8901.\n\nLove,\nRachel",
+          "daysLeft": 1,
+          "correction": "Rachel's intense feelings expressed early on are often a tactic used by scammers to manipulate emotions. Genuine connections develop over time.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "myoneandonly@email.com",
+          "date": "26/03/24 02:15 PM",
+          "title": "You Complete Me",
+          "body": "Dear Macs,\n\nI believe you are the one I have been searching for! Can we meet soon? I’m available at (555) 890-1234.\n\nYours forever,\nFaith",
+          "daysLeft": 1,
+          "correction": "Faith's claim of finding 'the one' right away is a common scam tactic. Real relationships grow gradually through shared experiences.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "foreverinlove@email.com",
+          "date": "29/03/24 11:00 AM",
+          "title": "Let's Connect!",
+          "body": "Hi Macs,\n\nI feel drawn to you! I’d love to get to know you more intimately. Can you text me at (555) 456-7890?\n\nFondly,\nJoy",
+          "daysLeft": 1,
+          "correction": "Joy's desire for intimacy without proper context is suspicious. Genuine relationships require trust and time to develop.",
+          "attachment": null,
+          "isHackable": false
+        }
+      ]
+    },
+    "scarewareScam": {
+      "count": 20,
+      "emails": [
+        {
+          "sender": "no-reply@antivirus-alerter.com",
+          "date": "01/05/2024 11:20AM",
+          "title": "Immediate Action Required: Your PC is Infected!",
+          "body": "Dear User,\n\nOur system has detected a severe infection on your PC. Please download and run the attached antivirus software immediately to remove the threat. Failure to do so could result in data loss.\n\nBest Regards,\nAntivirus Support Team",
+          "daysLeft": 1,
+          "correction": "Virus scanning softwares cannot scan your computer by email. Do not believe threats made via email that ask you to make payment or download any software to 'fix' the issue!",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "security@safe-lock.com",
+          "date": "01/04/2024 03:30PM",
+          "title": "Your Files Have Been Encrypted",
+          "body": "Attention,\n\nYour files have been encrypted due to a security breach. To restore access, you need to pay 1 BTC to the address below within 72 hours. If payment is not made, all files will be permanently deleted.\n\n- The Team",
+          "daysLeft": 3,
+          "correction": "Do not fall for threats made via email about your computer being compromised or locked - this cannot be detected by email. Do not respond or make payment!",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "govdept@urgent-taxes.gov",
+          "date": "03/01/24 09:20 AM",
+          "title": "Final Warning: Unpaid Tax Debt",
+          "body": "Dear Taxpayer,\n\nOur records show you owe $2,500 in unpaid taxes. Immediate action is required, or your assets will be seized. Click the payment link NOW to avoid arrest and severe legal penalties.\n\nGovernment Tax Collection Agency",
+          "daysLeft": 1,
+          "correction": "Government agencies do not threaten arrest via email or request immediate online payments; they provide official letters and ample time.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "support@bank-verifysafe.com",
+          "date": "06/01/24 03:45 PM",
+          "title": "Account Suspension Notice",
+          "body": "Dear Customer,\n\nYour bank account has been locked due to unauthorized access attempts. Click the secure link to restore your account or risk permanent deactivation.\n\nBank Security Team",
+          "daysLeft": 1,
+          "correction": "Banks never request account recovery via links in unsolicited emails; they contact you through secure communication.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "legal@lawenforcement-casefiles.net",
+          "date": "10/01/24 10:15 AM",
+          "title": "Court Summons: Immediate Response Required",
+          "body": "Dear Sir/Madam,\n\nYou are required to appear in court for a legal case. Failure to respond will result in a warrant for your arrest. Open the attached file for case details.\n\nLaw Enforcement Department",
+          "daysLeft": 1,
+          "correction": "Courts send official summons through registered mail, not email attachments; this is a scare tactic.",
+          "attachment": "CourtSummons_Jan2024.pdf",
+          "isHackable": false
+        },
+        {
+          "sender": "fraudalert@visa-transactionservice.com",
+          "date": "12/01/24 02:30 PM",
+          "title": "URGENT: Fraudulent Charge on Your Credit Card",
+          "body": "Dear Cardholder,\n\nA suspicious $1,000 transaction has been made on your card. Contact us immediately to stop the charge, or it will be processed within 24 hours.\n\nVisa Fraud Prevention Team",
+          "daysLeft": 1,
+          "correction": "Credit card companies do not demand urgent actions through scare tactics; they notify you via secure channels.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "alerts@publichealth-emergency.org",
+          "date": "15/01/24 08:10 AM",
+          "title": "Health Emergency Alert: Immediate Testing Required",
+          "body": "Dear Resident,\n\nYou have been exposed to a severe health threat. Immediate testing is required. Pay $150 using the link provided to secure your test appointment.\n\nPublic Health Office",
+          "daysLeft": 1,
+          "correction": "Public health alerts do not require payments via emails; such notifications come from verified local agencies.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "compliance@internet-watchgroup.net",
+          "date": "18/01/24 04:20 PM",
+          "title": "Illegal Internet Activity Detected",
+          "body": "Dear Internet User,\n\nWe have detected illegal browsing activity linked to your IP address. A fine of $500 must be paid to avoid prosecution.\n\nInternet Watch Group",
+          "daysLeft": 1,
+          "correction": "No legitimate organization monitors internet use and imposes fines through email; this is a scare scam.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "dept@socialsecurity-govadmin.us",
+          "date": "20/01/24 01:25 PM",
+          "title": "Social Security Benefits Frozen",
+          "body": "Dear Beneficiary,\n\nYour Social Security benefits are on hold due to an issue with your information. Provide your details now or risk losing your benefits permanently.\n\nSocial Security Administration",
+          "daysLeft": 1,
+          "correction": "The Social Security Administration does not freeze benefits based on email interactions or demand personal info urgently.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "cybercrime@national-policealerts.org",
+          "date": "25/01/24 11:40 AM",
+          "title": "Cybercrime Investigation: Immediate Attention Needed",
+          "body": "Dear Citizen,\n\nYou are under investigation for cybercrime. Pay $700 to avoid further legal actions. All transactions are being monitored.\n\nNational Police Cybercrime Unit",
+          "daysLeft": 1,
+          "correction": "Police do not demand payments to stop investigations; they handle such matters through legal, formal procedures.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "fines@drivingoffense-govalert.com",
+          "date": "02/02/24 07:55 AM",
+          "title": "Unpaid Traffic Violation Fine",
+          "body": "Dear Driver,\n\nA traffic fine of $300 has been issued for your vehicle. Failure to pay will result in a license suspension.\n\nPay the fine using the attached form.\n\nGovernment Traffic Enforcement",
+          "daysLeft": 1,
+          "correction": "Traffic violations are communicated through official letters, not emails demanding immediate payment.",
+          "attachment": "TrafficFineForm_Feb2024.pdf",
+          "isHackable": false
+        },
+        {
+          "sender": "support@powercompany-outages.com",
+          "date": "05/02/24 06:30 PM",
+          "title": "Immediate Payment Required: Power Disconnection Warning",
+          "body": "Dear Customer,\n\nYour electricity bill is overdue. If not paid in 24 hours, your power will be disconnected. Click the payment link to avoid this inconvenience.\n\nPower Company Billing Dept",
+          "daysLeft": 1,
+          "correction": "Utility companies notify overdue payments via official channels and do not threaten disconnection via emails.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "legaldept@creditcardlawsuit.com",
+          "date": "08/02/24 02:05 PM",
+          "title": "Credit Card Debt Lawsuit Pending",
+          "body": "Dear Customer,\n\nYour credit card provider is suing you for unpaid debts. Settle immediately to prevent court actions.\n\nClick the link to pay or review the lawsuit details.\n\nCredit Card Legal Department",
+          "daysLeft": 1,
+          "correction": "Lawsuits are never communicated via emails demanding payment or threatening immediate legal action.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "info@customs-packagehold.net",
+          "date": "12/02/24 11:15 AM",
+          "title": "Customs Hold: Fee Payment Required",
+          "body": "Dear Recipient,\n\nA package is being held at customs. Pay the $250 fee within 24 hours to release it.\n\nCustoms Office",
+          "daysLeft": 1,
+          "correction": "Customs agencies do not release packages based on fees paid through emails; they have official payment processes.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "admin@city-councilalerts.com",
+          "date": "15/02/24 10:20 AM",
+          "title": "Immediate Property Tax Payment Needed",
+          "body": "Dear Property Owner,\n\nYour property taxes are overdue. Failure to pay within 24 hours will lead to property seizure. Pay now!\n\nCity Council Tax Department",
+          "daysLeft": 1,
+          "correction": "Property tax notifications are sent by mail and provide time for payments, not through aggressive emails.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "hrdept@workplace-securityalerts.net",
+          "date": "18/02/24 03:55 PM",
+          "title": "Employee Security Breach Alert",
+          "body": "Dear Employee,\n\nA data breach has been detected. Complete the attached form to secure your employment information.\n\nWorkplace Security Team",
+          "daysLeft": 1,
+          "correction": "Security breaches are not handled through forms attached to unsolicited emails; companies use secure methods.",
+          "attachment": "SecurityBreachForm_Feb2024.pdf"
+        },
+        {
+          "sender": "ithelp@company-emergencyalerts.net",
+          "date": "25/02/24 09:35 AM",
+          "title": "Company Data Wipe Scheduled",
+          "body": "Dear Employee,\n\nAll data will be wiped from company servers due to a virus. Save your files by downloading the attached software.\n\nIT Helpdesk",
+          "daysLeft": 1,
+          "correction": "IT departments do not use fear-based emails with urgent software downloads; they communicate through official channels.",
+          "attachment": "DataSaver_Mar2024.exe",
+          "isHackable": false
+        },
+        {
+          "sender": "helpdesk@bank-emergency.com",
+          "date": "28/02/24 12:25 PM",
+          "title": "Bank Account Compromised - Action Needed",
+          "body": "Dear Client,\n\nYour bank account has been compromised. Transfer your funds immediately to the provided secure account to keep them safe.\n\nBank Helpdesk",
+          "daysLeft": 1,
+          "correction": "Banks never ask you to transfer funds to protect against fraud; they handle security internally.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "admin@rental-feepaymentalerts.com",
+          "date": "02/03/24 11:05 AM",
+          "title": "Immediate Rent Payment Required",
+          "body": "Dear Tenant,\n\nYour rent is overdue. Pay now to prevent eviction and legal action.\n\nRental Management",
+          "daysLeft": 1,
+          "correction": "Landlords or rental agencies communicate through official letters and do not threaten immediate eviction via email.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "alerts@national-taxoffice-gov.com",
+          "date": "05/03/24 07:00 AM",
+          "title": "Tax Fraud Investigation - Urgent",
+          "body": "Dear Citizen,\n\nYou are under investigation for tax fraud. Pay $3,000 to settle this case and avoid court.\n\nTax Office Compliance",
+          "daysLeft": 1,
+          "correction": "Tax fraud cases are not resolved via email payments; they involve formal investigations and legal procedures.",
+          "attachment": null,
+          "isHackable": false
+        }
+      ]
+    },
+    "impersonationScam": {
+      "count": 17,
+      "emails": [
+        {
+          "sender": "sarah.jones456@gmail.com",
+          "date": "03/01/24 09:45 AM",
+          "title": "Urgent Financial Situation, Macs!",
+          "body": "Hi Macs,\n\nI hope you’re doing well! I’ve just discovered a promising investment opportunity that requires a quick response. Could you send me your bank details so I can set it up on your behalf?\n\nI trust your judgment on this!\nBest,\nSarah",
+          "daysLeft": 1,
+          "correction": "Sarah usually discusses investments directly and wouldn't ask for bank details over email without a formal introduction.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "johnny.doe123@yahoo.com",
+          "date": "05/01/24 01:20 PM",
+          "title": "Need Your Assistance, Macs!",
+          "body": "Hey Macs,\n\nI’ve run into a tax issue that needs immediate resolution. Can you please confirm your Social Security number for verification? It’s crucial for getting this sorted out.\n\nThanks a lot!\nJohn",
+          "daysLeft": 1,
+          "correction": "John would never ask for such sensitive information through email. Tax issues are typically handled more securely.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "linda.peterson123@gmail.com",
+          "date": "08/01/24 11:00 AM",
+          "title": "Investment Help Needed!",
+          "body": "Hi Macs,\n\nI’m in a tough spot! I just got an offer to invest in a startup, but they need a quick verification of my investors. Can you send me a copy of your ID?\n\nMuch appreciated,\nLinda",
+          "daysLeft": 1,
+          "correction": "Linda usually wouldn't ask for personal identification like this via email. It raises red flags.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "david_smith1985@gmail.com",
+          "date": "10/01/24 04:30 PM",
+          "title": "Macs, I Need Your Expertise!",
+          "body": "Hey Macs,\n\nI’ve come across an incredible investment opportunity but need a partner. Can you share your investment strategy documents to help me evaluate?\n\nBest regards,\nDavid",
+          "daysLeft": 1,
+          "correction": "David would typically not ask for sensitive documents like this. He’s more professional and secure in his communications.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "emily.brown1990@hotmail.com",
+          "date": "12/01/24 10:10 AM",
+          "title": "A Quick Favor, Macs!",
+          "body": "Hi Macs,\n\nI hope you’re well! I need your help to resolve an issue with my bank. Can you send me your bank account number? It would really help to have a second account for verification.\n\nThank you so much,\nEmily",
+          "daysLeft": 1,
+          "correction": "Emily would never request someone else’s bank account number for verification purposes; it’s suspicious and uncharacteristic.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "mike.johnson1978@aol.com",
+          "date": "14/01/24 03:45 PM",
+          "title": "Urgent Help Required!",
+          "body": "Hi Macs,\n\nI’m in a jam! My investment account was compromised, and I need your help to recover my funds. Can you provide your login details to help verify the issue?\n\nThanks a million,\nMike",
+          "daysLeft": 1,
+          "correction": "Mike would never ask for login details like this. It’s a common tactic in phishing scams.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "familyhelp@randommail.com",
+          "date": "16/01/24 07:30 AM",
+          "title": "Important Family Matter, Macs",
+          "body": "Dear Macs,\n\nThere’s a family emergency, and I need to handle some finances quickly. Can you send me a wire transfer of $300 to cover immediate expenses? I promise to pay you back!\n\nLove,\nYour Family",
+          "daysLeft": 1,
+          "correction": "The vague sender name and lack of details make this email suspicious. Real family members would be more specific.",
+          "attachment": null
+        },
+        {
+          "sender": "friendsupport1980@gmail.com",
+          "date": "18/01/24 11:55 AM",
+          "title": "Can You Cover Me, Macs?",
+          "body": "Hey Macs,\n\nI hope you’re doing great! I just landed an investment opportunity but need to pay a deposit immediately. Can you send me your credit card details for a quick transfer?\n\nThanks a lot,\nYour Friend",
+          "daysLeft": 1,
+          "correction": "Friends don’t typically ask for credit card details via email. This is a major red flag.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "charles.warden67@gmail.com",
+          "date": "20/01/24 02:00 PM",
+          "title": "Investment Verification Needed!",
+          "body": "Hi Macs,\n\nI’m in a situation where I need to verify my investment identity for a new fund. Can you send me a scanned copy of your investment account statements?\n\nThanks for your help,\nCharles",
+          "daysLeft": 1,
+          "correction": "Charles would never ask for such sensitive documents. This email lacks a personal touch and sounds suspicious.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "robert.bennett11@outlook.com",
+          "date": "22/01/24 12:10 PM",
+          "title": "Emergency Assistance Required",
+          "body": "Hi Macs,\n\nI need your assistance urgently! I’ve had a mix-up with my stocks, and I need to prove my assets. Can you confirm your stock portfolio details to help me?\n\nThank you,\nRobert",
+          "daysLeft": 1,
+          "correction": "Robert would never request another person's stock details. This type of request is very uncharacteristic.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "financial.help@randommail.com",
+          "date": "24/01/24 09:30 AM",
+          "title": "Urgent Account Verification Needed",
+          "body": "Dear Macs,\n\nI need your help immediately! My investment platform is asking for your account information to release funds. Can you send it over?\n\nBest,\nYour Contact",
+          "daysLeft": 1,
+          "correction": "This request is suspicious because legitimate platforms never ask for sensitive information via email in this manner.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "family_update@randommail.com",
+          "date": "26/01/24 08:00 PM",
+          "title": "Quick Favor Needed!",
+          "body": "Hi Macs,\n\nI hope all is well! I’m dealing with a financial issue related to our investment, and I need your account details to resolve it quickly. Can you send them to me?\n\nThanks,\nFamily",
+          "daysLeft": 1,
+          "correction": "The vague sender name and lack of specific details are red flags. Real family communications are more personal.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "friend.buddy90@gmail.com",
+          "date": "28/01/24 03:15 PM",
+          "title": "Important Investment Matter",
+          "body": "Hey Macs,\n\nI’ve come across a limited investment opportunity that requires immediate action. Please send me your personal information so I can include you as a partner!\n\nCheers,\nYour Buddy",
+          "daysLeft": 1,
+          "correction": "No real friend would ask for such personal information without a clear context. This raises suspicion.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "help.friends@randommail.com",
+          "date": "30/01/24 02:45 PM",
+          "title": "Assistance Required for Investment",
+          "body": "Hi Macs,\n\nI’m in a bind and need to finalize my investments today. Can you send your Social Security number to help verify my portfolio?\n\nThanks a lot,\nFriend",
+          "daysLeft": 1,
+          "correction": "It’s highly unusual for anyone to request a Social Security number in this context. This is a clear phishing attempt.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "emily.taylor12@gmail.com",
+          "date": "01/02/24 06:30 AM",
+          "title": "Emergency Assistance Needed!",
+          "body": "Hi Macs,\n\nI’m in a serious financial bind and need your help immediately. Please send me your bank account details so I can resolve this issue!\n\nThank you,\nEmily",
+          "daysLeft": 1,
+          "correction": "Emily would not ask for such sensitive information so casually. It’s suspicious and out of character.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "investment.manager@randommail.com",
+          "date": "03/02/24 08:50 AM",
+          "title": "Immediate Help Required!",
+          "body": "Hello Macs,\n\nI hope this message finds you well! I’m facing an urgent issue with a current investment and need your immediate input. Can you send me your investment credentials?\n\nBest,\nYour Investment Manager",
+          "daysLeft": 1,
+          "correction": "An actual manager wouldn’t request such sensitive information over email. This is a typical phishing tactic.",
+          "attachment": null,
+          "isHackable": false
+        },
+        {
+          "sender": "help.requests@randommail.com",
+          "date": "05/02/24 05:00 PM",
+          "title": "A Personal Request",
+          "body": "Hi Macs,\n\nI hope everything is going well! I need your help with a financial issue related to our investments. Can you send me your bank details to resolve this?\n\nThanks,\nYour Friend",
+          "daysLeft": 1,
+          "correction": "This kind of request is not typical among friends, especially concerning sensitive financial information.",
+          "attachment": null,
+          "isHackable": false
+        }
+      ]
+    },
+    "defaultCategory": {
+      "count": 1,
+      "emails": [
+        {
+          "sender": "info@random-marketing.com",
+          "date": "01/06/2024 10:00AM",
+          "title": "Exciting New Product Launch - Check it out!",
+          "body": "Hello,\n\nWe are excited to introduce our new line of products that will revolutionize your lifestyle. Don't miss the chance to explore our new offerings and enjoy exclusive launch discounts.\n\nCheers,\nMarketing Team",
+          "daysLeft": 10,
+          "correction": "Marketing: Unsolicited promotional email.",
+          "isHackable": false
+        }
+      ]
+    }
+  }
+}
