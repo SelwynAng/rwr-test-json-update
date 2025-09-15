@@ -1,0 +1,642 @@
+[
+  {
+    "websiteType": "Ecommerce",
+    "url": "https://www.nike.com/Nike-Air-Zoom-Pegasus",
+    "isSecure": true,
+    "logo": "Images/nike_real_logo",
+    "menus": {
+  "en": ["Home", "About Us", "Contact Us"],
+  "ta": ["முகப்பு", "எங்களை பற்றி", "தொடர்பு கொள்ளுங்கள்"],
+  "zh-SG": ["首页", "关于我们", "联系我们"],
+  "ms": ["Laman Utama", "Tentang Kami", "Hubungi Kami"]
+},
+    "productImage": "ecommerce/SHOE/legit/nike1",
+    "productExtraImage1": "ecommerce/SHOE/legit/nike2",
+    "productExtraImage2": "ecommerce/SHOE/legit/nike3",
+    "productTitle": {"en" : "Nike Air Zoom Pegasus",
+                      "ta": "நைக் ஏர் ஜூம் பெகாசஸ்",
+                      "zh-SG": "耐克 Air Zoom Pegasus",
+                      "ms" : "Nike Air Zoom Pegasus"}, 
+
+    "productDescription" : {"en" : "Premium running shoes from Nike, designed for comfort and performance. Available on the official Nike website.",
+                      "ta": "நைக்கின் பிரீமியம் ஓட்டப்பந்தய காலணிகள், ஆறுதல் மற்றும் செயல்திறனுக்காக வடிவமைக்கப்பட்டவை. அதிகாரப்பூர்வ நைக் வலைத்தளத்தில் கிடைக்கிறது.",
+                      "zh-SG": "Nike 优质跑鞋，专为舒适性能而设计。可在 Nike 官方网站购买。",
+                      "ms" : "Kasut larian premium daripada Nike, direka untuk keselesaan dan prestasi. Boleh didapati di laman web rasmi Nike."}, 
+
+    "productPrice": "$120",
+    "companyName": "Nike",
+    "companyAddress": "123 Main Street, New York, NY",
+    "companyContact": "+65 234 567 890",
+    "companyEmail" : "customersupport@nike.com",
+    "isScam": false
+  },
+  {
+    "websiteType": "Ecommerce",
+    "url": "http://www.n1kessales-sh0es.net/Pr0duct43",
+    "isSecure": false,
+    "logo": "Images/nike_scam_logo",
+        "menus": {
+  "en": ["Home", "About Us", "Contact Us"],
+  "ta": ["முகப்பு", "எங்களை பற்றி", "தொடர்பு கொள்ளுங்கள்"],
+  "zh-SG": ["首页", "关于我们", "联系我们"],
+  "ms": ["Laman Utama", "Tentang Kami", "Hubungi Kami"]
+},
+    "productImage": "ecommerce/SHOE/scam/nike_fake1",
+    "productExtraImage1": "ecommerce/SHOE/scam/nike_fake2",
+    "productExtraImage2": "ecommerce/SHOE/scam/nike_fake3",
+
+
+        "productTitle": {"en" : "Nik Air Pegasus Zoom",
+                      "ta": "நிக் ஏர் பெகாசஸ் ஜூம்",
+                      "zh-SG": "耐克 Air Zoom Pegasus",
+                      "ms" : "Echo Dot (5th Gen)"},
+
+
+    "productDescription" : {"en" : "Premium running shoes from Nike, designed for comfort and performance. Available on the official Nike website.",
+                      "ta": "நைக்கின் பிரீமியம் ஓட்டப்பந்தய காலணிகள், ஆறுதல் மற்றும் செயல்திறனுக்காக வடிவமைக்கப்பட்டவை. அதிகாரப்பூர்வ நைக் வலைத்தளத்தில் கிடைக்கிறது.",
+                      "zh-SG": "Nike 优质跑鞋，专为舒适性能而设计。可在 Nike 官方网站购买。",
+                      "ms" : "Kasut larian premium daripada Nike, direka untuk keselesaan dan prestasi. Boleh didapati di laman web rasmi Nike."}, 
+ 
+
+    "productPrice": "$50 (SALE)",
+    "companyName": "Nikessales Ltd.",
+    "companyAddress": "Real WareHouse, Singapore 43321",
+    "companyContact": "+65 77322456",
+    "companyEmail" : "customersupport@nike.com",
+    "isScam": true
+  },
+  {
+    "websiteType": "Ecommerce",
+    "url": "https://www.amazon.com/echo-dot-5th-gen",
+    "isSecure": true,
+    "logo": "Images/amazon_logo",
+
+    "menus": {
+  "en": ["Home", "Today's Deals", "Customer Service", "Electronics"],
+  "ta": ["முகப்பு", "இன்றைய சலுகைகள்", "வாடிக்கையாளர் சேவை", "மின்னணு சாதனங்கள்"],
+  "zh-SG": ["首页", "今日优惠", "客户服务", "电子产品"],
+  "ms": ["Laman Utama", "Tawaran Hari Ini", "Khidmat Pelanggan", "Elektronik"]
+}
+,
+    "productImage": "ecommerce/EchoDot/Legit/echodot1",
+    
+    "productExtraImage1": "ecommerce/EchoDot/Legit/echodot2",
+    "productExtraImage2": "ecommerce/EchoDot/Legit/echodot3",
+        "productTitle": {"en" : "Echo Dot (5th Gen)",
+                      "ta": "எக்கோ டாட் (5வது ஜெனரல்)",
+                      "zh-SG": "Echo Dot - 第五代 ",
+                      "ms" : "Echo Dot (Generasi Ke-5)"}, 
+
+    "productDescription" : {"en" : "Smart speaker with Alexa integration, offering crisp sound and voice control. Sold by Amazon.",
+                      "ta": "அலெக்சா ஒருங்கிணைப்புடன் கூடிய ஸ்மார்ட் ஸ்பீக்கர், தெளிவான ஒலி மற்றும் குரல் கட்டுப்பாட்டை வழங்குகிறது. அமேசானால் விற்கப்படுகிறது.",
+                      "zh-SG": "集成 Alexa 的智能音箱，提供清晰的音质和语音控制。由亚马逊销售。",
+                      "ms" : "Pembesar suara pintar dengan integrasi Alexa, menawarkan kawalan bunyi dan suara yang jernih. Dijual oleh Amazon."}, 
+
+    "productPrice": "$49.99",
+    "companyName": "Amazon",
+    "companyAddress": "410 Terry Ave, Seattle, WA",
+    "companyContact": "+1 888 280 4331",
+    "companyEmail" : "customersupport@amazon.com",
+    "isScam": false
+  },
+  {
+    "websiteType": "Ecommerce",
+    "url": "http://www.amaz0n-fastdeals.net/echo-dot-best-product",
+    "isSecure": false,
+    "logo": "Images/amazon_fake_logo",
+"menus": {
+  "en": ["Home", "Today's Deals", "Customer Service", "Electronics"],
+  "ta": ["முகப்பு", "இன்றைய சலுகைகள்", "வாடிக்கையாளர் சேவை", "மின்னணு சாதனங்கள்"],
+  "zh-SG": ["首页", "今日优惠", "客户服务", "电子产品"],
+  "ms": ["Laman Utama", "Tawaran Hari Ini", "Khidmat Pelanggan", "Elektronik"]
+},
+
+    "productImage": "ecommerce/EchoDot/Scam/echodot_Scam1",
+    
+    "productExtraImage1": "ecommerce/EchoDot/Scam/echodot_Scam2",
+    "productExtraImage2": "ecommerce/EchoDot/Scam/echodot_Scam3",
+
+            "productTitle": {"en" : "Echo Dot - Super Sale!",
+                      "ta": "எக்கோ டாட் - சூப்பர் சேல்!",
+                      "zh-SG": "Echo Dot - 超级促销！",
+                      "ms" : "Echo Dot - Jualan Hebat!"},
+    
+
+    "productDescription" : {"en" : "Smart speaker with Alexa integration, offering crisp sound and voice control. Sold by Amazon.",
+                      "ta": "அலெக்சா ஒருங்கிணைப்புடன் கூடிய ஸ்மார்ட் ஸ்பீக்கர், தெளிவான ஒலி மற்றும் குரல் கட்டுப்பாட்டை வழங்குகிறது. அமேசானால் விற்கப்படுகிறது.",
+                      "zh-SG": "集成 Alexa 的智能音箱，提供清晰的音质和语音控制。由亚马逊销售。",
+                      "ms" : "Pembesar suara pintar dengan integrasi Alexa, menawarkan kawalan bunyi dan suara yang jernih. Dijual oleh Amazon."}, 
+ 
+
+
+    "productPrice": "$15",
+    "companyName": "Amazon Deals",
+    "companyAddress": "Not Mentioned",
+    "companyContact": "Unavailable",
+    "companyEmail" : "customersupport@amazon.com",
+    "isScam": true
+  },
+  {
+    "websiteType": "Ecommerce",
+    "url": "https://www.bestbuy.com/Smart-TV/Samsung-Product",
+    "isSecure": true,
+    "logo": "Images/amazon_logo",
+
+    "menus": {
+  "en": ["Home", "TVs", "Appliances", "Support"],
+  "ta": ["முகப்பு", "தொலைக்காட்சிகள்", "சாதனங்கள்", "ஆதரவு"],
+  "zh-SG": ["首页", "电视", "家用电器", "支持"],
+  "ms": ["Laman Utama", "TV", "Peralatan", "Sokongan"]
+},
+
+    "productImage": "ecommerce/TV/legit/TV_real1",
+    
+    "productExtraImage1": "ecommerce/TV/legit/TV_real2",
+    "productExtraImage2": "ecommerce/TV/legit/TV_real3",
+
+            "productTitle": {"en" : "Samsung 55\" Smart TV",
+                      "ta": "சாம்சங் 55\" ஸ்மார்ட் டிவி",
+                      "zh-SG": "三星 55 英寸智能电视",
+                      "ms" : "TV Pintar Samsung 55\""},
+
+
+    "productDescription" : {"en" : "4K UHD smart TV with vibrant visuals and built-in streaming apps. Available at Best Buy.",
+                      "ta": "துடிப்பான காட்சிகள் மற்றும் உள்ளமைக்கப்பட்ட ஸ்ட்ரீமிங் பயன்பாடுகளுடன் கூடிய 4K UHD ஸ்மார்ட் டிவி. Best Buy இல் கிடைக்கிறது.",
+                      "zh-SG": "4K 超高清智能电视，拥有生动的视觉效果和内置流媒体应用。百思买有售。",
+                      "ms" : "TV pintar UHD 4K dengan visual yang bertenaga dan apl penstriman terbina dalam. Boleh didapati di Best Buy."}, 
+
+
+    "productPrice": "$599.99",
+    "companyName": "Best Buy Co., Inc.",
+    "companyAddress": "7601 Penn Ave S, Richfield, MN",
+    "companyContact": "+1 888 237 8289",
+    "companyEmail" : "customersupport@bestbuy.com",
+    "isScam": false
+  },
+  {
+    "websiteType": "Ecommerce",
+    "url": "http://www.bestbuy-clearance.xyz/best-tv-product-of-all-time",
+    "isSecure": true,
+    "logo": "Images/amazon_fake_logo",
+    "menus": {
+  "en": ["Home", "TVs", "Appliances", "Support"],
+  "ta": ["முகப்பு", "தொலைக்காட்சிகள்", "சாதனங்கள்", "ஆதரவு"],
+  "zh-SG": ["首页", "电视", "家用电器", "支持"],
+  "ms": ["Laman Utama", "TV", "Peralatan", "Sokongan"]
+},
+    "productImage": "ecommerce/TV/Scam/TV_scam1",
+    
+    "productExtraImage1": "ecommerce/TV/Scam/TV_scam2",
+    "productExtraImage2": "ecommerce/TV/Scam/TV_scam3",
+
+            "productTitle": {"en" : "Samsung 55 SmartTV - Only Today",
+                      "ta": "சாம்சங் 55 ஸ்மார்ட் டிவி - இன்று மட்டும்",
+                      "zh-SG": "三星 55 智能电视 - 仅限今天",
+                      "ms" : "Samsung 55 SmartTV - Hanya Hari Ini"},
+
+
+    "productDescription" : {"en" : "4K UHD smart TV with vibrant visuals and built-in streaming apps. Available at Best Buy.",
+                      "ta": "துடிப்பான காட்சிகள் மற்றும் உள்ளமைக்கப்பட்ட ஸ்ட்ரீமிங் பயன்பாடுகளுடன் கூடிய 4K UHD ஸ்மார்ட் டிவி. Best Buy இல் கிடைக்கிறது.",
+                      "zh-SG": "4K 超高清智能电视，拥有生动的视觉效果和内置流媒体应用。百思买有售。",
+                      "ms" : "TV pintar UHD 4K dengan visual yang bertenaga dan apl penstriman terbina dalam. Boleh didapati di Best Buy."}, 
+
+
+
+    "productPrice": "$99",
+    "companyName": "BestBuy Clearance",
+    "companyAddress": "Unknown",
+    "companyContact": "Not Available",
+    "companyEmail" : "customersupport@bestbuy.com",
+    "isScam": true
+  },
+  {
+    "websiteType": "Ecommerce",
+    "url": "https://www.hm.com/men-wear/shirts/cotton-shirt",
+    "isSecure": true,
+    "logo": "Images/amazon_logo",
+"menus": {
+  "en": ["Home", "Women", "Men", "Kids"],
+  "ta": ["முகப்பு", "பெண்கள்", "ஆண்கள்", "குழந்தைகள்"],
+  "zh-SG": ["首页", "女士", "男士", "儿童"],
+  "ms": ["Laman Utama", "Wanita", "Lelaki", "Kanak-kanak"]
+},
+
+    "productImage": "ecommerce/CottonShirt/legit/cottonshirt_real1",
+    
+    "productExtraImage1": "ecommerce/CottonShirt/legit/cottonshirt_real2",
+    "productExtraImage2": "ecommerce/CottonShirt/legit/cottonshirt_real3",
+
+
+    "productTitle": {"en" : "H&M Cotton Shirt",
+                      "ta": "எச்&எம் காட்டன் சட்டை",
+                      "zh-SG": "H&M 棉质衬衫",
+                      "ms" : "Baju Cotton H&M"},
+
+
+    "productDescription" : {"en" : "Stylish and breathable cotton shirt from H&Ms official store. Affordable everyday wear.",
+                      "ta": "H&Ms அதிகாரப்பூர்வ கடையிலிருந்து ஸ்டைலான மற்றும் சுவாசிக்கக்கூடிய பருத்தி சட்டை. மலிவு விலையில் அன்றாட உடைகள்.",
+                      "zh-SG": "H&M官方店出品 时尚透气的棉质衬衫. 价格实惠，适合日常穿着.",
+                      "ms" : "Baju kapas yang bergaya dan bernafas dari kedai rasmi H&Ms. Pakaian harian mampu milik."}, 
+
+    
+    "productPrice": "$25.99",
+    "companyName": "H&M Group",
+    "companyAddress": "Mäster Samuelsgatan 46A, Stockholm",
+    "companyContact": "+46 8 796 55 00",
+    "companyEmail" : "customersupport@hm.com",
+    "isScam": false
+  },
+  {
+    "websiteType": "Ecommerce",
+    "url": "http://www.hnm-specialoffers.shop/best-shirt-deal-for-SALE",
+    "isSecure": false,
+    "logo": "Images/amazon_fake_logo",
+    "menus": {
+  "en": ["Home", "Women", "Men", "Kids"],
+  "ta": ["முகப்பு", "பெண்கள்", "ஆண்கள்", "குழந்தைகள்"],
+  "zh-SG": ["首页", "女士", "男士", "儿童"],
+  "ms": ["Laman Utama", "Wanita", "Lelaki", "Kanak-kanak"]
+},
+    "productImage": "ecommerce/CottonShirt/Scam/cottonshirt_scam1",
+    
+    "productExtraImage1": "ecommerce/CottonShirt/Scam/cottonshirt_scam2",
+    "productExtraImage2": "ecommerce/CottonShirt/Scam/cottonshirt_scam3",
+
+
+            "productTitle": {"en" : "H&M Brand Sale Shirt",
+                      "ta": "H&M பிராண்ட் விற்பனை சட்டை",
+                      "zh-SG": "H&M品牌促销衬衫",
+                      "ms" : "Baju Jualan Jenama H&M"},
+
+    "productDescription" : {"en" : "Stylish and breathable cotton shirt from H&Ms official store. Affordable everyday wear.",
+                      "ta": "H&Ms அதிகாரப்பூர்வ கடையிலிருந்து ஸ்டைலான மற்றும் சுவாசிக்கக்கூடிய பருத்தி சட்டை. மலிவு விலையில் அன்றாட உடைகள்.",
+                      "zh-SG": "H&M官方店出品 时尚透气的棉质衬衫. 价格实惠，适合日常穿着.",
+                      "ms" : "Baju kapas yang bergaya dan bernafas dari kedai rasmi H&Ms. Pakaian harian mampu milik."}, 
+ 
+
+
+    "productPrice": "$5",
+    "companyName": "HNM Offers Inc.",
+    "companyAddress": "N/A",
+    "companyContact": "Not Provided",
+    "companyEmail" : "customersupport@hm.com",
+    "isScam": true
+  },
+  {
+    "websiteType": "Ecommerce",
+    "url": "https://www.lenovo.com/Laptops/lenovo-product",
+    "isSecure": true,
+    "logo": "Images/amazon_logo",
+"menus": {
+  "en": ["Home", "Laptops", "Desktops", "Accessories"],
+  "ta": ["முகப்பு", "மடிக்கணினிகள்", "டெஸ்க்டாப்புகள்", "உபகரணங்கள்"],
+  "zh-SG": ["首页", "笔记本电脑", "台式机", "配件"],
+  "ms": ["Laman Utama", "Komputer Riba", "Komputer Meja", "Aksesori"]
+},
+
+    "productImage": "ecommerce/Laptop/Legit/laptop_real1",
+
+    "productExtraImage1": "ecommerce/Laptop/Legit/laptop_real2",
+    "productExtraImage2": "ecommerce/Laptop/Legit/laptop_real3",
+
+
+        "productTitle": {"en" : "Lenovo ThinkPad X1 Carbon",
+                      "ta": "லெனோவா திங்க்பேட் X1 கார்பன்",
+                      "zh-SG": "联想ThinkPad X1 Carbon",
+                      "ms" : "Lenovo ThinkPad X1 Carbon"},
+
+    "productDescription" : {"en" : "Lightweight business laptop with high performance, built for professionals. Sold on Lenovo official site.",
+                      "ta": "உயர் செயல்திறன் கொண்ட இலகுரக வணிக மடிக்கணினி, நிபுணர்களுக்காக உருவாக்கப்பட்டது. லெனோவா அதிகாரப்பூர்வ தளத்தில் விற்கப்படுகிறது.",
+                      "zh-SG": "轻薄高性能商务笔记本电脑，专为专业人士打造。在联想官网有售。",
+                      "ms" : "Komputer riba perniagaan ringan dengan prestasi tinggi, dibina untuk profesional. Dijual di laman web rasmi Lenovo."}, 
+
+
+
+    "productPrice": "$1499",
+    "companyName": "Lenovo Group Ltd.",
+    "companyAddress": "Beijing, China",
+    "companyContact": "+1 855 253 6686",
+    "companyEmail" : "customersupport@lenovo.com",
+    "isScam": false
+  },
+  {
+    "websiteType": "Ecommerce",
+    "url": "http://len0vo-specialdeal.online/sale-laptop-best",
+    "isSecure": true,
+    "logo": "Images/amazon_fake_logo",
+"menus": {
+  "en": ["Home", "Laptops", "Desktops", "Accessories"],
+  "ta": ["முகப்பு", "மடிக்கணினிகள்", "டெஸ்க்டாப்புகள்", "உபகரணங்கள்"],
+  "zh-SG": ["首页", "笔记本电脑", "台式机", "配件"],
+  "ms": ["Laman Utama", "Komputer Riba", "Komputer Meja", "Aksesori"]
+},
+
+    "productImage": "ecommerce/Laptop/scam/laptop_scam1",
+    
+    "productExtraImage1": "ecommerce/Laptop/scam/laptop_scam2",
+    "productExtraImage2": "ecommerce/Laptop/scam/laptop_scam3",
+
+            "productTitle": {"en" : "ThinkPad X1 Clearance Deal!",
+                      "ta": "திங்க்பேட் X1 கிளியரன்ஸ் சலுகை!",
+                      "zh-SG": "ThinkPad X1 清仓大促销！",
+                      "ms" : "Tawaran Pembersihan ThinkPad X1!"},
+
+    "productDescription" : {"en" : "Lightweight business laptop with high performance, built for professionals. Sold on Lenovo official site.",
+                      "ta": "உயர் செயல்திறன் கொண்ட இலகுரக வணிக மடிக்கணினி, நிபுணர்களுக்காக உருவாக்கப்பட்டது. லெனோவா அதிகாரப்பூர்வ தளத்தில் விற்கப்படுகிறது.",
+                      "zh-SG": "轻薄高性能商务笔记本电脑，专为专业人士打造。在联想官网有售。",
+                      "ms" : "Komputer riba perniagaan ringan dengan prestasi tinggi, dibina untuk profesional. Dijual di laman web rasmi Lenovo."}, 
+
+
+
+
+    "productPrice": "$200",
+    "companyName": "Lenovo Tech Sale",
+    "companyAddress": "Undisclosed",
+    "companyContact": "+65 33233123",
+    "companyEmail" : "customersupport@lenovo.com",
+    "isScam": true
+  },
+  {
+    "websiteType": "Ecommerce",
+    "url": "https://www.uniqlo.com/men/uniqlo-blocktech-parka",
+    "isSecure": true,
+    "logo": "Images/amazon_logo",
+    "menus": {
+  "en": ["Home", "Men", "Women", "LifeWear"],
+  "ta": ["முகப்பு", "ஆண்கள்", "பெண்கள்", "லைஃப்புவேர்கள்"],
+  "zh-SG": ["首页", "男士", "女士", "LifeWear"],
+  "ms": ["Laman Utama", "Lelaki", "Wanita", "LifeWear"]
+},
+    "productImage": "ecommerce/Uniqlo BlockTech Parka/legit/parka_real1",
+    
+    "productExtraImage1": "ecommerce/Uniqlo BlockTech Parka/legit/parka_real2",
+    "productExtraImage2": "ecommerce/Uniqlo BlockTech Parka/legit/parka_real3",
+
+            "productTitle": {"en" : "Uniqlo BlockTech Parka",
+                      "ta": "பாழடைந்த பிளாக்டெக் பூங்கா",
+                      "zh-SG": "Uniqlo BlockTech 派克大衣",
+                      "ms" : "Uniqlo BlockTech Parka"},
+
+    "productDescription" : {"en" : "Waterproof, windproof outerwear combining style and functionality. Offered by Uniqlo.",
+                      "ta": "நீர்ப்புகா, காற்று புகாத வெளிப்புற ஆடைகள், பாணி மற்றும் செயல்பாட்டை இணைக்கிறது. Uniqlo ஆல் வழங்கப்படுகிறது.",
+                      "zh-SG": "兼具时尚与功能的防水防风外套。优衣库出品。",
+                      "ms" : "Pakaian luar kalis air dan kalis angin menggabungkan gaya dan fungsi. Ditawarkan oleh Uniqlo."}, 
+
+
+    "productPrice": "$69.90",
+    "companyName": "Uniqlo Co., Ltd.",
+    "companyAddress": "Tokyo, Japan",
+    "companyContact": "+81 3 6865 0050",
+    "companyEmail" : "customersupport@uniqlo.com",
+    "isScam": false
+  },
+  {
+    "websiteType": "Ecommerce",
+    "url": "http://www.un1qlo-japanstyle.net/best-winter-sale-offer",
+    "isSecure": false,
+    "logo": "Images/amazon_fake_logo",
+        "menus": {
+  "en": ["Home", "Men", "Women", "LifeWear"],
+  "ta": ["முகப்பு", "ஆண்கள்", "பெண்கள்", "லைஃப்புவேர்கள்"],
+  "zh-SG": ["首页", "男士", "女士", "LifeWear"],
+  "ms": ["Laman Utama", "Lelaki", "Wanita", "LifeWear"]
+},
+    "productImage": "ecommerce/Uniqlo BlockTech Parka/Scam/parka_scam1",
+
+    "productExtraImage1": "ecommerce/Uniqlo BlockTech Parka/Scam/parka_scam2",
+    "productExtraImage2": "ecommerce/Uniqlo BlockTech Parka/Scam/parka_scam3",
+
+            "productTitle": {"en" : "Uniqlo Winter Offer",
+                      "ta": "யூனிக்லோ குளிர்கால சலுகை",
+                      "zh-SG": "优衣库冬季优惠",
+                      "ms" : "Tawaran Musim Sejuk Uniqlo"},
+
+
+    "productDescription" : {"en" : "Waterproof, windproof outerwear combining style and functionality. Offered by Uniqlo.",
+                      "ta": "நீர்ப்புகா, காற்று புகாத வெளிப்புற ஆடைகள், பாணி மற்றும் செயல்பாட்டை இணைக்கிறது. Uniqlo ஆல் வழங்கப்படுகிறது.",
+                      "zh-SG": "兼具时尚与功能的防水防风外套。优衣库出品。",
+                      "ms" : "Pakaian luar kalis air dan kalis angin menggabungkan gaya dan fungsi. Ditawarkan oleh Uniqlo."}, 
+
+
+
+    "productPrice": "$12.90",
+    "companyName": "Uniqlo JapanStyle",
+    "companyAddress": "Tokyo, Japan",
+    "companyContact": "+81 3 6865 0050",
+    "companyEmail" : "customersupport@gmail.com",
+    "isScam": true
+  },
+  {
+    "websiteType": "News",
+    "url": "https://www.bbc.com/news",
+    "isSecure": true,
+    "logo": "Images/NEWS/StraitTimesLogo_real",
+
+
+
+          "menus": {
+  "en": ["Home", "UK", "World", "Business"],
+  "ta": ["முகப்பு", "இங்கிலாந்து", "உலகம்", "வணிகம்"],
+  "zh-SG": ["首页", "英国", "世界", "商业"],
+  "ms": ["Laman Utama", "UK", "Dunia", "Perniagaan"]
+},
+
+    "newsImage" : "NEWS/GlobalSummit/Legit/globalSummit",
+
+    "headline": {
+  "en": "Global Summit Brings Climate Action to Spotlight",
+  "ta": "உலக உச்சி மாநாடு காலநிலை நடவடிக்கையை முன்னிறுத்துகிறது",
+  "zh-SG": "全球峰会将气候行动推向聚光灯下",
+  "ms": "Sidang Kemuncak Global Menarik Perhatian Terhadap Tindakan Iklim"
+},
+
+    "articleSnippet": {
+  "en": "World leaders gather to discuss climate solutions...",
+  "ta": "உலகத் தலைவர்கள் காலநிலை தீர்வுகளை விவாதிக்க கூடுகிறார்கள்...",
+  "zh-SG": "世界领袖齐聚一堂，共同探讨气候解决方案……",
+  "ms": "Pemimpin dunia berkumpul untuk membincangkan penyelesaian iklim..."
+},
+
+   "author": {
+  "en": "Anna Morgan",
+  "ta": "அன்னா மோர்கன்",
+  "zh-SG": "安娜·摩根",
+  "ms": "Anna Morgan"
+},
+
+    "companyName": "BBC",
+    "companyAddress": "Broadcasting House, London",
+    "companyContact": "+44 20 8743 8000",
+    "companyEmail": "news@bbc.co.uk",
+    "isScam": false
+  },
+  {
+    "websiteType": "News",
+    "url": "https://www.StraitTimesrealnews.org/news",
+    "isSecure": true,
+    "logo": "Images/NEWS/StraitTimesLogo_real",
+
+      "menus": {
+  "en": ["Home", "UK", "World", "Business"],
+  "ta": ["முகப்பு", "இங்கிலாந்து", "உலகம்", "வணிகம்"],
+  "zh-SG": ["首页", "英国", "世界", "商业"],
+  "ms": ["Laman Utama", "UK", "Dunia", "Perniagaan"]
+},
+    "newsImage" : "NEWS/TrumpArrested/fake_trump",
+
+    "headline": {
+  "en": "Donald Trump is taken into custody!",
+  "ta": "டொனால்ட் டிரம்ப் காவலில் எடுக்கப்பட்டார்!",
+  "zh-SG": "唐纳德·特朗普被拘留！",
+  "ms": "Donald Trump Ditahan!"
+},
+
+    "articleSnippet": {
+  "en": "Trump was about to announce to world war 3.",
+  "ta": "டிரம்ப் உலகப் போர் 3 ஐ அறிவிக்கத் திட்டமிட்டிருந்தார்.",
+  "zh-SG": "特朗普即将宣布第三次世界大战。",
+  "ms": "Trump hampir mengumumkan Perang Dunia Ketiga."
+},
+
+    "author": {
+  "en": "Lex Luthor",
+  "ta": "லெக்ஸ் லூதர்",
+  "zh-SG": "莱克斯·卢瑟",
+  "ms": "Lex Luthor"
+},
+
+    "companyName": "StraitTimesRealNews",
+    "companyAddress": "Broadcasting House, London",
+    "companyContact": "+65 20 8743 8000",
+    "companyEmail": "news@bbc.co.uk",
+    "isScam": true
+  },
+  {
+    "websiteType": "News",
+    "url": "http://www.breaking-news-hot.ru",
+    "isSecure": false,
+    "logo": "Images/NEWS/straitTimes_fake_logo",
+ 
+
+
+
+      "menus": {
+  "en": ["Home", "Trends", "Shocking", "Sports"],
+  "ta": ["முகப்பு", "போக்குகள்", "அதிர்ச்சிகரமான", "விளையாட்டு"],
+  "zh-SG": ["首页", "趋势", "震惊", "体育"],
+  "ms": ["Laman Utama", "Tren", "Mengejutkan", "Sukan"]
+},
+
+    "newsImage" : "NEWS/Iphone/Scam/IphoneScamImage",
+
+    "headline": {
+  "en": "Click Here to Win iPhone Instantly!",
+  "ta": "உடனடியாக iPhone வெல்ல இங்கே கிளிக் செய்யவும்!",
+  "zh-SG": "点击这里立即赢取iPhone",
+  "ms": "Klik Sini Untuk Menang iPhone Serta-Merta!"
+},
+
+    "articleSnippet": {
+  "en": "Thousands are getting rewards, why wait?",
+  "ta": "ஆயிரக்கணக்கானவர்கள் பரிசுகளை பெறுகின்றனர், ஏன் காத்திருக்க வேண்டும்?",
+  "zh-SG": "成千上万的人正在领取奖励——你还在等什么？",
+  "ms": "Ribuan orang sudah mendapat ganjaran, kenapa tunggu lagi?"
+},
+    "author": {
+  "en": "Anonymous",
+  "ta": "அறியப்படாதவர்",
+  "zh-SG": "匿名",
+  "ms": "Tanpa Nama"
+},
+
+    "companyName": "Breaking Today Media",
+    "companyAddress": "Unknown",
+    "companyContact": "N/A",
+    "companyEmail": "promo@hotprize.ru",
+    "isScam": true
+  },
+  {
+    "websiteType": "News",
+    "url": "https://www.reuters.com",
+    "isSecure": true,
+    "logo": "Images/NEWS/StraitTimesLogo_real",
+
+
+  "menus": {
+  "en": ["Home", "Markets", "Technology", "Health"],
+  "ta": ["முகப்பு", "சந்தைகள்", "தொழில்நுட்பம்", "ஆரோக்கியம்"],
+  "zh-SG": ["首页", "市场", "科技", "健康"],
+  "ms": ["Laman Utama", "Pasaran", "Teknologi", "Kesihatan"]
+},
+
+
+    "newsImage" : "NEWS/stock_market/legit/stock_market_image",
+
+    "headline": {
+  "en": "Markets Rally as Inflation Cools",
+  "ta": "பரிவர்த்தனை மையங்கள் வீழ்ச்சி அடையும் நிலையில் உயர்கின்றன",
+  "zh-SG": "随着通胀降温，市场反弹",
+  "ms": "Pasaran Melonjak Apabila Inflasi Menurun"
+},
+    "articleSnippet": {
+  "en": "Stock markets worldwide showed gains today...",
+  "ta": "உலகளாவிய பங்குச் சந்தைகள் இன்று வளர்ச்சியைக் காட்டின...",
+  "zh-SG": "全球股市今日上涨……",
+  "ms": "Pasaran saham di seluruh dunia menunjukkan kenaikan hari ini..."
+},
+    "author": {
+  "en": "James Brooks",
+  "ta": "ஜேம்ஸ் ப்ரூக்ஸ்",
+  "zh-SG": "詹姆斯·布鲁克斯",
+  "ms": "James Brooks"
+},
+
+    "companyName": "Reuters",
+    "companyAddress": "3 Times Square, New York, NY",
+    "companyContact": "+1 646 223 4000",
+    "companyEmail": "info@reuters.com",
+    "isScam": false
+  },
+  {
+    "websiteType": "News",
+    "url": "http://news-free-updates-win.com/avail-the-reward",
+    "isSecure": true,
+    "logo": "Images/NEWS/straitTimes_fake_logo",
+
+
+ "menus": {
+  "en": ["Win Prizes", "Viral", "Exclusive", "Urgent"],
+  "ta": ["வெற்றி பரிசுகள்", "வழங்கல்", "தனிப்பட்டது", "அவசரம்"],
+  "zh-SG": ["赢奖品", "病毒式传播", "独家", "紧急"],
+  "ms": ["Menang Hadiah", "Viral", "Eksklusif", "Segera"]
+},
+
+
+    "newsImage" : "NEWS/FreeGift/scam/freeGiftScamImage",
+
+    "headline": {
+  "en": "Free Gift Cards for All Viewers!",
+  "ta": "அனைத்து பார்வையாளர்களுக்கும் இலவச பரிசு கார்டுகள்!",
+  "zh-SG": "所有观众免费获得礼品卡！",
+  "ms": "Kad Hadiah Percuma Untuk Semua Penonton!"
+},
+    "articleSnippet": {
+  "en": "Just click to claim your rewards instantly...",
+  "ta": "உங்கள் பரிசுகளை உடனடியாக பெற கிளிக் செய்யவும்...",
+  "zh-SG": "只需点击即可立即领取奖励……",
+  "ms": "Klik sahaja untuk menuntut ganjaran anda serta-merta..."
+},
+    "author": {
+  "en": "N/A",
+  "ta": "இல்லை",
+  "zh-SG": "不适用",
+  "ms": "Tiada"
+},
+
+    "companyName": "Reward News",
+    "companyAddress": "Singapore",
+    "companyContact": "+42 334406",
+    "companyEmail": "randomguy@gmail.com",
+    "isScam": true
+  }
+]
